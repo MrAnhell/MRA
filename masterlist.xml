@@ -88,12 +88,12 @@
 -->
 
 <item>
-<title>                           [B][COLOR skyblue]M r A n h e l l [/COLOR][COLOR deepskyblue]L I S T[/COLOR][/B]</title>
+<title>                           [B][COLOR skyblue]M r A n h e l l[/COLOR] [COLOR deepskyblue]L I S T[/COLOR][/B]</title>
 <link>http://adrian.kodistream.info/adryan/liist.xml</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 </item>
 
 <item>
-<title>              [COLOR gray]   update: [COLOR white]02[/COLOR] â€¢ December â€¢ 2015[/COLOR]      </title>
+<title>              [COLOR silver]   update: [COLOR white]02[/COLOR] December 2015[/COLOR]      </title>
 <link>http://adrian.kodistream.info/adryan/liist.xml</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 </item>
 
@@ -111,13 +111,13 @@
 
 
 <item>
-<title>[COLOR cyan]â€¢[/COLOR][COLOR yellow]  ** S T A R  [/COLOR] [COLOR gold] W A R S  ** [/COLOR] [COLOR gray][The Complete Saga][/COLOR]</title>
+<title>[COLOR yellow]  ** S T A R  [/COLOR] [COLOR gold] W A R S  ** [/COLOR] [COLOR gray][The Complete Saga][/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/starwars.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR lime]â€¢[/COLOR][COLOR red]  Pheonix[/COLOR]</title>
+<title>[COLOR red]  Pheonix[/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <externallink>https://gist.githubusercontent.com/MrAnhell/7c3c6e006d6c3472d22a/raw/c5f63ffb284c3c0cd13125d6da0efd7ea9b199a6/pheanix.xml</externallink>
 </item>
@@ -125,30 +125,30 @@
 
 
 <item>
-<title>[COLOR lime]â€¢[/COLOR][COLOR deepskyblue]  Sports[/COLOR] [COLOR skyblue][Sports] [/COLOR]</title>
+<title>[COLOR deepskyblue]  Sports[/COLOR] [COLOR skyblue][Sports] [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/deportes_adryan_list.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR lime]â€¢[/COLOR][COLOR skyblue]  [B]Peliculas[/B] [/COLOR]</title>
+<title>[COLOR skyblue]  [B]Peliculas[/B] [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/pyt_vod.xml</externallink>
 </item>
 <item>
-<title>[COLOR lime]â€¢[/COLOR][COLOR skyblue]  [B]Series de TV[/B] [/COLOR]</title>
+<title>[COLOR skyblue]  [B]Series de TV[/B] [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/tv.xml</externallink>
 </item>
 
 
 <item>
-<title>[COLOR lime]â€¢[/COLOR][COLOR deepskyblue]  EspaÃ±a [/COLOR]</title>
+<title>[COLOR deepskyblue]  EspaÃ±a [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/esp.xml</externallink>
 </item>
 <item>
-<title>[COLOR lime]â€¢[/COLOR][COLOR deepskyblue]  Mexico[/COLOR] </title>
+<title>[COLOR deepskyblue]  Mexico[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/mx.xml</externallink>
 </item>
@@ -156,7 +156,7 @@
 
 
 <item>
-<title>[COLOR lime]â€¢[/COLOR] [COLOR deepskyblue]IPTV Stalker[/COLOR] [COLOR skyblue][Regexed][/COLOR] </title>
+<title>[COLOR deepskyblue]IPTV Stalker[/COLOR] [COLOR skyblue][Regexed][/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/s6COZv5.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/nescafe.xml</externallink>
 </item>
@@ -164,20 +164,20 @@
 
 
 <item>
-<title>[COLOR lime]â€¢[/COLOR][COLOR deepskyblue]  TotalPlay    [/COLOR] [COLOR darkwhite] [/COLOR]  </title>
+<title>[COLOR deepskyblue]  TotalPlay    [/COLOR] [COLOR darkwhite] [/COLOR]  </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/totalp.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR lime]â€¢[/COLOR][COLOR deepskyblue]  IPTV[B]+[/B]   [/COLOR] [COLOR skyblue][/COLOR]  </title>
+<title>[COLOR deepskyblue]  IPTV[B]+[/B]   [/COLOR] [COLOR skyblue][/COLOR]  </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/iptv.m3u</externallink>
 </item>
 
 
 <item>
-<title>[COLOR lime]â€¢[/COLOR][COLOR deepskyblue]  Entretenimiento[/COLOR]  [COLOR skyblue][/COLOR]  </title>
+<title>[COLOR deepskyblue]  Entretenimiento[/COLOR]  [COLOR skyblue][/COLOR]  </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/ent.xml</externallink>
 </item>
@@ -185,31 +185,31 @@
 
 
 <item>
-<title>[COLOR lime]â€¢[/COLOR][COLOR deepskyblue]  Peliculas & [B]Series de TV [COLOR skyblue]24/7[/COLOR][/B][/COLOR] [COLOR green] [/COLOR]</title>
+<title>[COLOR deepskyblue]  Peliculas & [B]Series de TV [COLOR skyblue]24/7[/COLOR][/B][/COLOR] [COLOR green] [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg/fanart>
 <externallink>http://adrian.kodistream.info/adryan/p247.xml</externallink>
 </item>
 
 
 <item>
-<title>[COLOR lime]â€¢[/COLOR][COLOR deepskyblue]  Musica[/COLOR]</title>
+<title>[COLOR deepskyblue]  Musica[/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/musi.xml</externallink>
 </item>
 <item>
-<title>[COLOR lime]â€¢[/COLOR][COLOR deepskyblue]  Paises[/COLOR]</title>
+<title>[COLOR deepskyblue]  Paises[/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/paises.xml</externallink>
 </item>
 <item>
-<title>[COLOR lime]â€¢[/COLOR][COLOR deepskyblue]  Internacionales[/COLOR] </title>
+<title>[COLOR deepskyblue]  Internacionales[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/inter.xml</externallink>
 </item>
 
 
 <item>
-<title>[COLOR lime]â€¢[/COLOR][COLOR deepskyblue]  Mas Listas[/COLOR]</title>
+<title>[COLOR deepskyblue]  Mas Listas[/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/lists.xml</externallink>
 </item>
