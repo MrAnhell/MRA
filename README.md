@@ -2,4 +2,4 @@
 
 
 
-im the fucking king lol
+new to git but learning :)
