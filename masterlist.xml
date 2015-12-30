@@ -32,7 +32,7 @@
 
 
 <item>
-<title>[COLOR white]  IPTV Stalker[/COLOR] [COLOR green][Regexed][/COLOR] </title>
+<title>[COLOR blue]  IPTV Stalker[/COLOR] [COLOR green][Regexed][/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/s6COZv5.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MrAnhell/MRA/master/STALKER.xml</externallink>
 </item>
@@ -40,13 +40,13 @@
 
 
 <item>
-<title>[COLOR deepskyblue]  TotalPlay    [/COLOR] [COLOR darkwhite] [/COLOR]  </title>
+<title>[COLOR blue]  TotalPlay    [/COLOR] [COLOR darkwhite] [/COLOR]  </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/totalp.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR deepskyblue]  IPTV[B]+[/B]   [/COLOR] [COLOR skyblue][/COLOR]  </title>
+<title>[COLOR blue]  IPTV[B]+[/B]   [/COLOR] [COLOR skyblue][/COLOR]  </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/iptv.m3u</externallink>
 </item>
@@ -54,7 +54,7 @@
 
 
 <item>
-<title>[COLOR deepskyblue]  Mas Listas[/COLOR]</title>
+<title>[COLOR blue]  Mas Listas[/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/lists.xml</externallink>
 </item>
@@ -62,7 +62,7 @@
 
 
 <item>
-<title>          [COLOR gray]Donations [COLOR silver]PayPal:[/COLOR] [COLOR gray]angel92977@gmail.com[/COLOR][/COLOR]</title>
+<title>          [COLOR white]Donations [COLOR white]PayPal:[/COLOR] [COLOR yellow]angel92977@gmail.com[/COLOR][/COLOR]</title>
 <link>http://adrian.kodistream.info/adryan/in.xml</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 </item>	
 
