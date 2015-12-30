@@ -30,50 +30,6 @@
 
 
 
-<item>
-<title>[COLOR yellow]  ** S T A R  [/COLOR] [COLOR gold] W A R S  ** [/COLOR] [COLOR gray][The Complete Saga][/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
-<externallink>http://adrian.kodistream.info/adryan/starwars.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR red]  Pheonix[/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/MrAnhell/MRA/master/pheonix.xml</externallink>
-</item>
-
-
-
-<item>
-<title>[COLOR deepskyblue]  Sports[/COLOR] [COLOR skyblue][Sports] [/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
-<externallink>http://adrian.kodistream.info/adryan/deportes_adryan_list.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR skyblue]  [B]Peliculas[/B] [/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
-<externallink>http://adrian.kodistream.info/adryan/pyt_vod.xml</externallink>
-</item>
-<item>
-<title>[COLOR skyblue]  [B]Series de TV[/B] [/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
-<externallink>http://adrian.kodistream.info/adryan/tv.xml</externallink>
-</item>
-
-
-<item>
-<title>[COLOR deepskyblue]  EspaÃ±a [/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
-<externallink>http://adrian.kodistream.info/adryan/esp.xml</externallink>
-</item>
-<item>
-<title>[COLOR deepskyblue]  Mexico[/COLOR] </title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
-<externallink>http://adrian.kodistream.info/adryan/mx.xml</externallink>
-</item>
-
-
 
 <item>
 <title>[COLOR white]  IPTV Stalker[/COLOR] [COLOR green][Regexed][/COLOR] </title>
@@ -96,37 +52,6 @@
 </item>
 
 
-<item>
-<title>[COLOR deepskyblue]  Entretenimiento[/COLOR]  [COLOR skyblue][/COLOR]  </title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
-<externallink>http://adrian.kodistream.info/adryan/ent.xml</externallink>
-</item>
-
-
-
-<item>
-<title>[COLOR deepskyblue]  Peliculas & [B]Series de TV [COLOR skyblue]24/7[/COLOR][/B][/COLOR] [COLOR green] [/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg/fanart>
-<externallink>http://adrian.kodistream.info/adryan/p247.xml</externallink>
-</item>
-
-
-<item>
-<title>[COLOR deepskyblue]  Musica[/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
-<externallink>http://adrian.kodistream.info/adryan/musi.xml</externallink>
-</item>
-<item>
-<title>[COLOR deepskyblue]  Paises[/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
-<externallink>http://adrian.kodistream.info/adryan/paises.xml</externallink>
-</item>
-<item>
-<title>[COLOR deepskyblue]  Internacionales[/COLOR] </title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
-<externallink>http://adrian.kodistream.info/adryan/inter.xml</externallink>
-</item>
-
 
 <item>
 <title>[COLOR deepskyblue]  Mas Listas[/COLOR]</title>
@@ -137,15 +62,11 @@
 
 
 <item>
-<title>          [COLOR gray]Donaciones por [COLOR silver]PayPal:[/COLOR] [COLOR gray]adrian.bu@gmail.com[/COLOR][/COLOR]</title>
+<title>          [COLOR gray]Donations [COLOR silver]PayPal:[/COLOR] [COLOR gray]angel92977@gmail.com[/COLOR][/COLOR]</title>
 <link>http://adrian.kodistream.info/adryan/in.xml</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 </item>	
 
 
-<item>
-<title>[COLOR gray]Si te Gusta la Lista Considera hacer una DONACION, para apoyarme y seguirla actualizando.[/COLOR]</title>
-<link>http://adrian.kodistream.info/adryan/in.xml</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
-</item>	
--->
+
 
 </items>
