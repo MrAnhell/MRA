@@ -1,0 +1,1029 @@
+
+<item>
+<title>[COLOR orange] ----- IPTV PLAYLIST ----- [/COLOR]</title>
+<link>NoURL</link>
+<thumbnail>http://www.marketingstockport.co.uk/images/uploads/Warning_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red] Updated 12.30.15 [/COLOR]</title>
+<link>NoURL</link>
+<thumbnail>http://blog.shi.com/wp-content/uploads/2014/08/082914-update-image.png</thumbnail>
+</item>
+
+<item>
+<title>BBC1 HD</title>
+<link>http://vs-hds-uk-live.edgesuite.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa3%3d96000-video%3d5070000.m3u8|x-forwarded-for=88.110.425.44</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/BBC%20ONE%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>BBC1</title>
+<link>http://uk.stream.yo.tv/livehttporigin/BBCOne_360p.stream/playlist.m3u8</link>
+<link>http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=0</link>
+<link>http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=41</link>
+<thumbnail>http://metalkettle.co/logos/logos2/FREESAT/Glossy/TV/BBC%201%20CI.png</thumbnail>
+</item>
+
+<item>
+<title>BBC1 Ireland HD</title>
+<link>http://vs-hds-uk-live.edgesuite.net/pool_4/live/bbc_one_northern_ireland_hd/bbc_one_northern_ireland_hd.isml/bbc_one_northern_ireland_hd-pa3%3d96000-video%3d5070000.m3u8|x-forwarded-for=88.110.425.44</link>
+<thumbnail>http://metalkettle.co/logos/logos2/FREESAT/Glossy/TV/BBC%201%20NI%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>BBC1 Wales HD</title>
+<link>http://vs-hds-uk-live.edgesuite.net/pool_3/live/bbc_one_wales_hd/bbc_one_wales_hd.isml/bbc_one_wales_hd-pa3%3d96000-video%3d5070000.m3u8|x-forwarded-for=88.110.425.44</link>
+<thumbnail>http://metalkettle.co/logos/logos2/FREESAT/Glossy/TV/BBC%201%20Wales%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>BBC2 HD</title>
+<link>http://vs-hds-uk-live.edgesuite.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa3%3d96000-video%3d5070000.m3u8|x-forwarded-for=88.110.425.44</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/BBC%20TWO%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>BBC2</title>
+<link>http://uk.stream.yo.tv/livehttporigin/BBCTwo_360p.stream/playlist.m3u8</link>
+<link>http://88.208.192.7/Streaming/MP.m3u8?device=hB82h2vBo5t83C3q0u3I216kR8j22G17q3mIh492V882aGn404R686dTg56j1wP606F88q3yBa1a73sC441wZ2p85C&stream=BBC2&q=auto&ver=4.000</link>
+<link>http://82.135.224.134:80/udp/239.100.3.3:1234</link>
+<thumbnail>http://metalkettle.co/logos/logos2/FREESAT/Glossy/TV/BBC%202%20England.png</thumbnail>
+</item>
+
+<item>
+<title>BBC3 HD </title>
+<link>http://vs-hds-uk-live.edgesuite.net/pool_1/live/bbc_three_hd/bbc_three_hd.isml/bbc_three_hd-pa3%3d96000-video%3d5070000.m3u8|x-forwarded-for=88.110.425.44</link>
+<thumbnail>http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/BBC3HD.png_430261402.png</thumbnail>
+</item>
+
+<item>
+<title>BBC3/CBBC</title>
+<link>http://88.208.192.7/Streaming/MP.m3u8?device=eD822Gr5v83F303fU21o6Ng8a2l2N17q3N49u2B8z82oTo404rRo68i6rZc56y1lFo60p6E883Cs173pSy441kOw2k85zA&stream=BBC3&q=auto&ver=4.000</link>
+<link>http://62.65.140.152:80/session/ba25affc-9894-11e5-b739-005056bc06d1/nvnv5a/2/4008/index.m3u8?token=39a6637879b4fb607c420ec1d3fba5cd_1449106424_1449106424&p=127|X-Forwarded-For=85.195.192.0</link>
+<link>http://82.135.224.134:80/udp/239.100.3.4:1234</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/BBC%20THREE.png</thumbnail>
+</item>
+
+<item>
+<title>BBC4 HD</title>
+<link>http://vs-hds-uk-live.edgesuite.net/pool_2/live/bbc_four_hd/bbc_four_hd.isml/bbc_four_hd-pa3%3d96000-video%3d5070000.m3u8|x-forwarded-for=88.110.425.44</link>
+<thumbnail>http://www.freeview.co.uk/wp-content/themes/freeview/img/channels/hd/bbcfourhd.png</thumbnail>
+</item>
+
+<item>
+<title>BBC4</title>
+<link>http://88.208.192.7/Streaming/MP.m3u8?device=C82l2I5e83Rf303rGw21y6tEq8a22kSo173mHl49x2Nh88y2gUs40m4yIq68q6N56y1F6f06V883vW17o3M44a1xK2z85kB&stream=BBC4&q=auto&ver=4.000</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/BBC%20FOUR.png</thumbnail>
+</item>
+
+<item>
+<title>BBC Entertainment SD/HD</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL253/PROFILE05.m3u8?-1332/1499-20150816T153535.ts</link>
+<link>http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?supertvlat=%2F.ts</link>
+<thumbnail>http://image1.hoerzu.de/files/station_logos/662.png</thumbnail>
+</item>
+
+<item>
+<title>BBC ALBA</title>
+<link>http://vs-hds-uk-live.edgesuite.net/pool_1/live/bbc_alba/bbc_alba.isml/bbc_alba-pa3%3d96000-video%3d1604000.m3u8|x-forwarded-for=88.110.425.44</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/BBC%20ALBA.png</thumbnail>
+</item>
+
+<item>
+<title>ITV 1</title>
+<link>http://uk.stream.yo.tv/livehttporigin/ITV1_360p.stream/playlist.m3u8</link>
+<link>http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=2</link>
+<link>http://82.135.224.134:80/udp/239.100.3.6:1234</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/ITV.png</thumbnail>
+</item>
+
+<item>
+<title>ITV 2</title>
+<link>http://88.208.192.7/Streaming/MP.m3u8?device=jFl822gFi5c8i3Om3a03iOm21w6xCi82z2eSz1n7w3iU49z2sBd88c2Z404M6u86fF5b61zR6b06lHu883gY173uE44k1xAq2j85Z&stream=ITV2&q=auto&ver=4.000</link>
+<link>http://62.65.140.155:80/session/c802472a-9894-11e5-9081-005056bc06d1/nvnv5a/2/4005/index.m3u8?token=ded41d53ddc55306a360563e9f06f633_1449106447_1449106447&p=127|X-Forwarded-For=85.195.192.0</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/ITV2.png</thumbnail>
+</item>
+
+<item>
+<title>ITV BE</title>
+<link>http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=35</link>
+<thumbnail>http://cdn.itv.com/uploads/editor/small_fueVEODDx1AknYpGeZDK0h4C8N_Nu8IAs0T6KSZkTnM.jpg</thumbnail>
+</item>
+
+<item>
+<title>Channel 4</title>
+<link>http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Channel%204.png</thumbnail>
+</item>
+
+<item>
+<title>E4</title>
+<link>http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=16</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/E4.png</thumbnail>
+</item>
+
+<item>
+<title>Film4</title>
+<link>http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=14</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Film4.png</thumbnail>
+</item>
+
+<item>
+<title>Channel 5 </title>
+<link>http://uk.stream.yo.tv/livehttporigin/Channel5_360p.stream/playlist.m3u8</link>
+<link>http://88.208.192.7/Streaming/MP.m3u8?device=fU8t2o2eC58u3xL30j3T2b16Zz82k2gL173Az4x9n2nBi8s8x2Ys4u04mSi686uQ561P6c06Z88i3qOe1e7p3Jw4u4c1G2t8q5I&stream=Channel5&q=auto&ver=4.000</link>
+</link>http://88.208.192.7/php/m3u8.php?stream=Channel5&device=fU8t2o2eC58u3xL30j3T2b16Zz82k2gL173Az4x9n2nBi8s8x2Ys4u04mSi686uQ561P6c06Z88i3qOe1e7p3Jw4u4c1G2t8q5I&ver=4.000&prevurl=http://88.208.192.7/Streaming/MP.m3u8[qm]device=fU8t2o2eC58u3xL30j3T2b16Zz82k2gL173Az4x9n2nBi8s8x2Ys4u04mSi686uQ561P6c06Z88i3qOe1e7p3Jw4u4c1G2t8q5I[amp]stream=Channel5[amp]q=auto[amp]ver=4.000</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Channel%205.png</thumbnail>
+</item>
+
+<item>
+<title>5 Star </title>
+<link>http://69.64.32.8/Streaming/MP.m3u8?device=qD822xS5t83Wj3c03lUf216nKl822dFp17j3gNi49p2Ht882vS4k0r4Cs68m6E561ePs60l6mDw883pZf17w3Pp4t41He28s5cT&stream=Five*&q=auto&ver=4.000</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/5_.png</thumbnail>
+</item>
+
+<item>
+<title>5 USA</title>
+<link>http://69.64.32.8/Streaming/MP.m3u8?device=Q8o22Zu5e8a3Fd3u03J2y1u6Y822W1c73Q4n92Gd8x82xYm404bNc686cPh5w61Wc6d06mMr8s8c3G173N441J285nX&stream=FiveUSA&q=auto&ver=4.000</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/5%20USA.png</thumbnail>
+</item>
+
+<item>
+<title>Quest</title>
+<link>http://69.64.32.8/Streaming/MP.m3u8?device=aJg82h2G5z83eO3d03oR21f6uVn822uJ1w73rH4d9i2E882Ai4z04E6q8g6xB56v1St6m0p6F883gU1d7o3bDh441V2y8k5W&stream=Quest&q=auto&ver=4.000</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/QUEST.png</thumbnail>
+</item>
+
+<item>
+<title>DAVE</title>
+<link>http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=11</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Dave.png</thumbnail>
+</item>
+
+<item>
+<title>TV3 </title>
+<link>rtmpe://fml.5011.edgecastcdn.net/205011/live playpath=mp4:tv3.mp4 app=205011/live pageURL=http://www.tv3.ie/3player/live/ swfUrl=http://www.tv3.ie/player/assets/flowplayer/flash/flowplayer.commercial-3.2.7.swf swfVfy=true live=true timeout=10</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/TV3.png</thumbnail>
+</item>
+
+<item>
+<title>TG4 </title>
+<link>http://csm-e.cds1.yospace.com/csm/live/74246540.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DTT/Glossy/TV/TG4.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Atlantic</title>
+<link>http://bit.ly/21OjTtM</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Sky%20Atlantic.png</thumbnail>
+</item>
+
+<item>
+<title>AMC Europe (English Spoken)</title>
+<link>http://195.244.40.135:8000/play/a01l</link>
+<link>http://31.177.62.135:9010</link>
+<thumbnail>http://images.amcnetworks.com/blogs.amctv.com/wp-content/uploads/2013/04/amc-logo-rebrand-blk-3251.jpg</thumbnail>
+</item>
+
+<item>
+<title>AMC U.S</title>
+<link>http://foro:cable@24.139.177.135:9981/stream/channelid/8908737?ticket=127DBD78C0BC2105F7A37F8092187BF90C3F300E&profile=pass</link>
+<thumbnail>http://images.amcnetworks.com/blogs.amctv.com/wp-content/uploads/2013/04/amc-logo-rebrand-blk-3251.jpg</thumbnail>
+</item>
+
+<item>
+<title>Comedy Central U.S</title>
+<link>http://foro:cable@24.139.177.135:9981/stream/channelid/123429173?ticket=C179925E963A467B7B307DED663B0C19FE258F4E&profile=pass</link>
+<thumbnail>http://www.nytvf.com/images/cc_logo1.gif</thumbnail>
+</item>
+
+<item>
+<title>Syfy Europe (English Spoken)</title>
+<link>http://195.244.40.135:8000/play/a01v</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Syfy.png</thumbnail>
+</item>
+
+<item>
+<title>Sony SCI FI (Change to English in Player Settings)</title>
+<link>http://188.113.128.45:8000/udp/239.192.4.14:6085</link>
+<thumbnail>http://www.streamytv.net/wp-content/uploads/2015/05/Sony-Sci-Fi-TV.png</thumbnail>
+</item>
+
+<item>
+<title>TNT Series Europe (English Spoken)</title>
+<link>http://iptvcanales.com/xw/cable.php?canal=76&player=playlist.m3u8</link>
+<thumbnail>https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2015/03/LogoTNTSERIES-01.jpg</thumbnail>
+</item>
+
+<item>
+<title>AXN HD Europe (English Spoken)</title>
+<link>http://31.177.62.137:9072</link>
+<link>http://31.177.62.136:9087</link>
+<thumbnail>http://acm01.pink.cat/whats-on/logoimages/ChannelLogo/Pos/721_300.png</thumbnail>
+</item>
+
+<item>
+<title>AXN White HD Europe (English Spoken)</title>
+<link>http://31.177.62.135:9016</link>
+<link>http://31.177.62.135:9015</link>
+<thumbnail>http://videos.mundo-r.com/files/category_images/205/axn_white_hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>AXN Black HD Europe (English Spoken)</title>
+<link>http://31.177.62.137:9074</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCEsUMqreqkrqxUPPnRwzOCI_LdUH1u9TdTt6SMRkkGwMMw48m</thumbnail>
+</item>
+
+<item>
+<title>FOX HD Europe (English Spoken)</title>
+<link>http://31.177.62.137:9073</link>
+<thumbnail>http://2.bp.blogspot.com/-YrT5xIf_2HU/VD683eywfiI/AAAAAAAAbbU/QRIOqHHRA6Q/s1600/fox_tv_hd_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>Fox 1 HD Europe (English Spoken)</title>
+<link>http://iptvcanales.com/xw/cable.php?canal=86&player=playlist.m3u8</link>
+<thumbnail>http://oneplay.tv/uploads/video_thumbs/fox1hd.png</thumbnail>
+</item>
+
+<item>
+<title>Fox Action HD Europe (English Spoken)</title>
+<link>http://iptvcanales.com/xw/cable.php?canal=87&player=playlist.m3u8</link>
+<thumbnail>http://oneplay.tv/uploads/video_thumbs/foxaction.png</thumbnail>
+</item>
+
+<item>
+<title>Paramount Channel Europe (Change To English In Player Settings)</title>
+<link>http://188.113.128.45:8000/udp/239.192.4.31:6085</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/c/ca/Paramount-Channel-logo.jpg/revision/latest?cb=20130601231108</thumbnail>
+</item>
+
+<item>
+<title>Warner TV (English Spoken)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?supertvlat=%2F.ts</link>
+<thumbnail>http://cdn1.sciencefiction.com/wp-content/uploads/2014/07/wb_tv_large.jpg</thumbnail>
+</item>
+
+<item>
+<title>Universal Channel HD Europe (English Spoken)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?-1332/1499-20150816T153535.ts</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Universal%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>Sony TV Europe (English Spoken)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?-1332/1499-20150816T153535.ts</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/SONY%20TV.png</thumbnail>
+</item>
+
+<item>
+<title>Fox Movies HD Europe (English Spoken Films)</title>
+<link>http://iptvcanales.com/xw/cable.php?canal=88&player=playlist.m3u8</link>
+<thumbnail>http://oneplay.tv/uploads/video_thumbs/FOXMOVIESHDqoW3x.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Greats</title>
+<link>http://bit.ly/1NFLPtK</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Sky%20Movies%20Modern%20Greats.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Family</title>
+<link>http://bit.ly/1IEcEy4</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Sky%20Family.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Comedy</title>
+<link>http://bit.ly/1RDWyXi</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Sky%20Comedy.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Star Wars</title>
+<link>http://bit.ly/1Nb3nfJ</link>
+<thumbnail>http://go.sky.com/static/SVOD/COMMON/IMAGES/ChannelLogos/Sky%20Movies%20Star%20Wars/GOPC%20&%20GOPS/SKYMOVIES_STARWARS_92x92.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Action & Adventure</title>
+<link>http://bit.ly/1OhxgZr</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Sky%20Movies%20Action%20&%20Adventure.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Disney</title>
+<link>http://bit.ly/1SNKfGe</link>
+<thumbnail>http://go.sky.com/static/SVOD/COMMON/IMAGES/ChannelLogos/Sky%20Movies%20Disney/PlayStation/SM_Disney_92x92.png</thumbnail>
+</item>
+
+<item>
+<title>Fox Movies (English Spoken Films)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?supertvlat=%2F.ts</link>
+<thumbnail>http://40.media.tumblr.com/881e3d09170dbed70bb609ffeb1f3c1c/tumblr_inline_nn4c1zDiru1t9mz2l_400.png</thumbnail>
+</item>
+
+<item>
+<title>Fox 1 (English Spoken Films)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?supertvlat=%2F.ts</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/236x/84/4f/86/844f864442a31933bf3066c8bdeb4c31.jpg</thumbnail>
+</item>
+
+<item>
+<title>Fox Action (English Spoken Films)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?supertvlat=%2F.ts</link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7JA97-v5hie62DMCOHSzHu-LbyF22uVByFmeg8lKM4svTa3-oaA</thumbnail>
+</item>
+
+<item>
+<title>HBO Plus Europe (English Spoken Films)</title>
+<link>rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe</link>
+<link>rtmp://89.248.168.57:1935/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/HBO token=#ed%h0#w18623jsda6523lDGDve<link>
+<thumbnail>http://metalkettle.co/logos/logos2/hbo%20plus.jpg</thumbnail>
+</item>
+
+<item>
+<title>Canal Hollywood (English Spoken Films)</title>
+<link>http://195.244.40.135:8000/play/a01j</link>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/canal_hollywood.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV1000 (Change To English In Player Settings)</title>
+<link>http://37.192.132.47:81/udp/239.1.4.12:1234</link>
+<link>http://195.78.244.219:10000/udp/239.0.3.29:1234</link>
+<thumbnail>http://img.tyt.by/320x0s/n/tv/logotipy/05/d/tv1000-logo-new.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV1000 Action (Change To English In Player Settings)</title>
+<link>http://37.192.132.47:81/udp/239.1.4.13:1234</link>
+<link>http://195.78.244.219:10000/udp/239.0.3.27:1234</link>
+<thumbnail>http://metalkettle.co/logos/logos2/tv%201000%20action.jpg</thumbnail>
+</item>
+
+<item>
+<title>E2 (English Spoken TV Shows & Films)</title>
+<link>http://origin.live.web.tv.streamprovider.net/streams/5dac5e87d17d40f5bca18d2b211a4dd2_live_0_0/index.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/e2.jpg</thumbnail>
+</item>
+
+<item>
+<title>CNBC-E (English Spoken TV Shows & Films)</title>
+<link>http://origin.live.web.tv.streamprovider.net/streams/9044496707bcc259f6cdf58eb93cbfe9_live_0_0/index.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/cnbce_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Dubai One HD (English Spoken TV Shows & Films)</title>
+<link>http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/dubai%20one.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC 2 (English Spoken Films)</title>
+<link>http://63.237.48.3/ios/MBC2/MBC2.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/MBC2.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC Action (English Spoken Films)</title>
+<link>http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/mbc-action.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC Max (English Spoken Films & Shows)</title>
+<link>http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/mbc%20max.jpg</thumbnail>
+</item>
+
+<item>
+<title>24/7 Western Films Channel</title>
+<link>mms://72.13.93.186/colorwesterns</link>
+<thumbnail>http://metalkettle.co/logos/logos2/westernfilms-logo1.jpg</thumbnail>
+</item>
+
+<item>
+<title>24/7 Murder Mystery Films Channel</title>
+<link>mms://72.13.93.186/mysterymovies</link>
+<thumbnail>http://metalkettle.co/logos/logos2/murder%20mystery.jpg</thumbnail>
+</item>
+
+<item>
+<title>24/7 Classic Movies Channel</title>
+<link>mms://72.13.93.186/classicmovies</link>
+<thumbnail>http://metalkettle.co/logos/logos2/classic%20movies.jpg</thumbnail>
+</item>
+
+<item>
+<title>CBS Reality +1</title>
+<link>http://slynet.8nio.com/2/cbsreality_sly.m3u8</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUxwikOubAluPwjqrnQnpxyanm9KMvNjCyk68DI9f2M4e1SikU</thumbnail>
+</item>
+
+<item>
+<title>TLC (Change To English In Player Settings)</title>
+<link>http://212.70.155.243:27987/udp/237.100.0.19:4000?AbuDhabiTVHD</link>
+<link>http://188.113.128.45:8000/udp/239.192.5.37:6085</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/TLC.png</thumbnail>
+</item>
+
+<item>
+<title>History Channel U.S</title>
+<link>http://foro:cable@24.139.177.135:9981/stream/channelid/881322161?ticket=86F1B7D47946046A6D89377707E88EB8F2D24B6A&profile=pass</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/History.png</thumbnail>
+</item>
+
+<item>
+<title>History Channel Europe (English Spoken)</title>
+<link>http://82.76.249.81/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/History.png</thumbnail>
+</item>
+
+<item>
+<title>Animal Planet U.S</title>
+<link>http://foro:cable@24.139.177.135:9981/stream/channelid/1196125252?ticket=6EFBD35EBA3243EB36ED3C50D71669D198866BFD&profile=pass</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Animal%20Planet.png</thumbnail>
+</item>
+
+<item>
+<title>Animal Planet (Change To English In Player Settings)</title>
+<link>http://212.70.155.243:27987/udp/237.100.0.39:4000?AbuDhabiTVHD</link>
+<link>http://188.113.128.45:8000/udp/239.192.5.28:6085</link>
+<link>http://37.192.132.47:81/udp/239.1.5.3:1234</link>
+<link>http://109.226.222.161:4022/udp/239.255.4.175:1234</link>
+<link>http://slynet.8nio.com/at/animalplanet_sly.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Animal%20Planet.png</thumbnail>
+</item>
+
+<item>
+<title>Discovery Channel Europe (English Spoken)</title>
+<link>http://5.32.183.177:4080/udp/224.0.0.110:1241</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Discovery.png</thumbnail>
+</item>
+
+<item>
+<title>Discovery Channel (Change To English In Player Settings)</title>
+<link>http://212.70.155.243:27987/udp/237.100.0.33:4000?AbuDhabiTVHD</link>
+<link>http://188.113.128.45:8000/udp/239.192.5.27:6085</link>
+<link>http://37.192.132.47:81/udp/239.1.5.1:1234</link>
+<link>http://109.226.222.161:4022/udp/239.255.4.200:1234</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Discovery.png</thumbnail>
+</item>
+
+<item>
+<title>Discovery Sceince (Change To English In Player Settings)</title>
+<link>http://188.113.128.45:8000/udp/239.192.5.8:6085</link>
+<link>http://slynet.8nio.com/at/discoveryscience_sly.m3u8</link>
+<link>http://91.196.148.6/discoveryscience</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Disc.Science.png</thumbnail>
+</item>
+
+<item>
+<title>I.D U.S</title>
+<link>http://foro:cable@24.139.177.135:9981/stream/channelid/778962059?ticket=20991006E4622390E3E04B153CAFD8A2E2DC94A3&profile=pass</link>
+<thumbnail>http://www.yakkatv.com/images/Ch-logo/Netherlands/investigation_discovery_europe.jpg</thumbnail>
+</item>
+
+<item>
+<title>I.D (Change To English In Player Settings)</title>
+<link>http://37.192.132.47:81/udp/239.1.2.8:1234</link>
+<thumbnail>http://blogs.reuters.com/mediafile/files/2012/04/discoveryid.jpg</thumbnail>
+</item>
+
+<item>
+<title>I.D Xtra (Change To English In Player Settings)</title>
+<link>http://188.113.128.45:8000/udp/239.192.4.45:6085</link>
+<link>https://hec.su/b1UT</link>
+<link>http://slynet.8nio.com/at/iddiscovery_sly.m3u8</link>
+<thumbnail>http://mediamania.tyden.cz/obrazek/201403/5332cd6c17cfc/discovery-idx-logo-5332d1840e86c.jpg</thumbnail>
+</item>
+
+<item>
+<title>Crime & Investigation </title>
+<link>http://foro:cable@24.139.177.135:9981/stream/channelid/778962059?ticket=20991006E4622390E3E04B153CAFD8A2E2DC94A3&profile=pass</link>
+<thumbnail>http://www.digital-news.it/files-admin/Simone/crime+investigation.jpg</thumbnail>
+</item>
+
+<item>
+<title>National Geographic Channel HD (Change To English In Player Settings)</title>
+<link>http://109.226.222.161:4022/udp/239.255.4.167:1234</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Nat%20Geo%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>National Geographic Channel (Change To English In Player Settings)</title>
+<link>http://212.70.155.243:27987/udp/237.100.0.38:4000?AbuDhabiTVHD</link>
+<link>http://188.113.128.45:8000/udp/239.192.5.20:6085</link>
+<link>http://37.192.132.47:81/udp/239.1.5.8:1234</link>
+<link>http://slynet.8nio.com/at/natgeo_sly.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Nat%20Geo.png</thumbnail>
+</item>
+
+<item>
+<title>National Geographic Channel Europe (English Spoken)</title>
+<link>http://82.76.249.81/digiedge2/nationalgeographicehq/index.m3u8?is=19&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<link>http://foro:cable@24.139.177.135:9981/stream/channelid/631184809?ticket=3CA22721C0FC7CAC0A94990FC8CAC77A372C9DB6&profile=pass</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Nat%20Geo.png</thumbnail>
+</item>
+
+<item>
+<title>Nat Geo Wild Europe (English Spoken)</title>
+<link>http://foro:cable@24.139.177.135:9981/stream/channelid/841253459?ticket=886F178628DAD10F7D45E40D068A4175A458CD50&profile=pass</link>
+<link>http://82.76.249.81/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<link>http://5.32.183.177:4080/udp/224.0.0.120:1237</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Nat%20Geo%20Wild.png</thumbnail>
+</item>
+
+<item>
+<title>Nat Geo Wild U.S</title>
+<link>http://foro:cable@24.139.177.135:9981/stream/channelid/841253459?ticket=886F178628DAD10F7D45E40D068A4175A458CD50&profile=pass</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Nat%20Geo%20Wild.png</thumbnail>
+</item>
+
+<item>
+<title>Nat Geo Wild (Change To English In Player Settings)</title>
+<link>http://212.70.155.243:27987/udp/237.100.0.35:4000?AbuDhabiTVHD</link>
+<link>http://37.192.132.47:81/udp/239.1.5.16:1234</link>
+<link>http://109.226.222.161:4022/udp/239.255.4.31:1234</link>
+<link>http://slynet.8nio.com/at/natgeowild_sly.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Nat%20Geo%20Wild.png</thumbnail>
+</item>
+
+<item>
+<title>Tru TV U.K</title>
+<link>http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/4/playlist.m3u8</link>
+<thumbnail>http://pmcdeadline2.files.wordpress.com/2014/02/trutv_logo110830153427__140228005014.jpg</thumbnail>
+</item>
+
+<item>
+<title>Horse & Country U.K</title>
+<link>http://llnw.live.simplestream.com/coder5/coder.channels.channel5/hls/4/playlist.m3u8</link>
+<thumbnail>http://theasswinproject.org.uk/media/horseandcountry.png</thumbnail>
+</item>
+
+<item>
+<title>Viasat Nature (Change To English Player Settings)</title>
+<link>http://82.76.249.81/digiedge2/viasatnatureehq/index.m3u8?is=42&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<link>http://212.70.155.243:27987/udp/237.100.0.37:4000?AbuDhabiTVHD</link>
+<link>http://37.192.132.47:81/udp/239.1.5.5:1234</link>
+<link>http://195.78.244.219:10000/udp/239.0.3.28:1234</link>
+<thumbnail>http://metalkettle.co/logos/logos2/viasat%20nature.jpg</thumbnail>
+</item>
+
+<item>
+<title>Viasat Explorer (Change To English In Player Settings)</title>
+<link>http://212.70.155.243:27987/udp/237.100.0.41:4000?AbuDhabiTVHD</link>
+<link>http://37.192.132.47:81/udp/239.1.5.15:1234</link>
+<link>http://195.78.244.219:10000/udp/239.0.3.30:1234</link>
+<thumbnail>http://metalkettle.co/logos/logos2/viasat-explorer.jpg</thumbnail>
+</item>
+
+<item>
+<title>Viasat History (Change To English In Player Settings)</title>
+<link>http://82.76.249.81/digiedge2/viasathistoryehq/index.m3u8?is=41&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<link>http://212.70.155.243:27987/udp/237.100.0.34:4000?AbuDhabiTVHD</lnik>
+<link>http://37.192.132.47:81/udp/239.1.5.14:1234</link>
+<link>http://195.78.244.219:10000/udp/239.0.3.31:1234</link>
+<thumbnail>http://metalkettle.co/logos/logos2/viasat%20history.jpg</thumbnail>
+</item>
+
+<item>
+<title>London Live</title>
+<link>http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8</link>
+<thumbnail>http://skyinmadrid.com/images/London_Live_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>CBBC HD</title>
+<link>http://vs-hds-uk-live.edgesuite.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa3%3d96000-video%3d5070000.m3u8|x-forwarded-for=88.110.425.44</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/CBBC_HD.svg/1280px-CBBC_HD.svg.png</thumbnail>
+</item>
+
+<item>
+<title>CBeebies HD</title>
+<link>http://vs-hds-uk-live.edgesuite.net/pool_2/live/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-pa3%3d96000-video%3d5070000.m3u8|x-forwarded-for=88.110.425.44</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Cbeebies.png</thumbnail>
+</item>
+
+<item>
+<title>Baby TV</title>
+<link>http://212.70.155.243:27987/udp/237.100.0.102:4000?AbuDhabiTVHD</link>
+<link>http://31.130.77.96:4022/udp/233.26.198.162:5000</link>
+<link>rtmp://46.183.120.158/ott/babytv</link>
+><thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/BabyTV.png</thumbnail>
+</item>
+
+<item>
+<title>PBS Kids (English Spoken)</title>
+<link>http://128.104.128.176:8080/udp/239.1.1.92:3092</link>
+<thumbnail>http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0002/8904/brand.gif</thumbnail>
+</item>
+
+<item>
+<title>Disney Channel U.S</title>
+<link>http://foro:cable@24.139.177.135:9981/stream/channelid/209291716?ticket=72BC4C96436A7F4D686AB3E974ABADF6A0283A16&profile=pass</link>
+<link>http://foro:cable@24.139.177.135:9981/stream/channelid/240612779?ticket=D67D16EA4367DC8DDC2612F169770C45FABB986F&profile=pass</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Disney%20Chnl.png</thumbnail>
+</item>
+
+<item>
+<title>Disney Channel (Change to English in Player Settings)</title>
+<link>http://195.244.40.135:8000/play/a024</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Disney%20Chnl.png</thumbnail>
+</item>
+
+<item>
+<title>Nickelodeon Europe (English Spoken)</title>
+<link>http://5.32.183.177:4080/udp/224.0.0.120:1240</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Nickelodeon.png</thumbnail>
+</item>
+
+<item>
+<title>Nickelodeon U.S</title>
+<link>http://foro:cable@24.139.177.135:9981/stream/channelid/210091339?ticket=83C6989D76398E0CA94C0C29DE12D08221E2C862&profile=pass</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Nickelodeon.png</thumbnail>
+</item>
+
+<item>
+<title>Nickelodeon (Change To English In Player Settings)</title>
+<link>http://188.113.128.45:8000/udp/239.192.2.4:6085</link>
+<link>https://hec.su/b1SF</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Nickelodeon.png</thumbnail>
+</item>
+
+<item>
+<title>Nick Jnr (Change To English In Player Settings)</title>
+<link>http://slynet.8nio.com/mx/nickjr_sly.m3u8</link>
+<link>http://91.196.148.6/tvi</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Nick%20Jr..png</thumbnail>
+</item>
+
+<item>
+<title>Nick Jnr U.S</title>
+<link>http://foro:cable@24.139.177.135:9981/stream/channelid/1875425967?ticket=B36DED9701AB9D53F51DA14736E828DB247FC9C0&profile=pass</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Nick%20Jr..png</thumbnail>
+</item>
+
+<item>
+<title>Cartoon Network Asia (English Spoken)</title>
+<link>http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Cartoon%20Netwrk.png</thumbnail>
+</item>
+
+<item>
+<title>Cartoon Network Europe (Change To English In Player Settings)</title>
+<link>http://188.113.128.45:8000/udp/239.192.2.34:6085</link>
+<link>http://212.70.155.243:27987/udp/237.100.0.28:4000?AbuDhabiTVHD</link>
+<link>http://37.192.132.47:81/udp/239.1.3.3:1234</link>
+<link>http://5.32.183.177:4080/udp/224.0.0.120:1244</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Cartoon%20Netwrk.png</thumbnail>
+</item>
+
+<item>
+<title>Boomerang Europe</title>
+<link>http://77.120.118.235:8085</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/85/Boomerang_New_Logo-2014.jpg</thumbnail>
+</item>
+
+<item>
+<title>Jim Jam Europe</title>
+<link>http://77.120.118.235:8089</link>
+<link>http://slynet.8nio.com/va/jimjam_sly.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/jim%20jam.jpg</thumbnail>
+</item>
+
+<item>
+<title>BET</title>
+<link>http://128.104.128.176:8080/udp/239.1.1.96:3096</link>
+<thumbnail>http://metalkettle.co/logos/logos1/BET.png</thumbnail>
+</item>
+
+<item>
+<title>MTV Europe/Spain/Russia</title>
+<link>http://195.244.40.135:8000/play/a01o</link>
+<link>http://212.70.155.243:27987/udp/237.100.0.86:4000?AbuDhabiTVHD</link>
+<link>http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<link>http://31.130.77.96:4022/udp/233.26.198.85:5000</link>
+<link>http://slynet.8nio.com/at/mtv_sly.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/MTV.png</thumbnail>
+</item>
+
+<item>
+<title>MTV Live HD</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>http://teve.ba/img/articles/1916.jpg</thumbnail>
+</item>
+
+<item>
+<title>MTV Dance</title>
+<link>http://31.130.77.96:4022/udp/233.26.198.177:5000</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/MTV%20Dance.png</thumbnail>
+</item>
+
+<item>
+<title>MTV Rocks Europe</title>
+<link>http://212.70.148.19:2222/udp/239.1.1.137:4000</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/MTV%20Rocks.png</thumbnail>
+</item>
+
+<item>
+<title>MTV Hits Europe</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?supertvlat=%2F.ts</link>
+<link>https://hec.su/bYYn</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/MTV%20Hits.png</thumbnail>
+</item>
+
+<item>
+<title>VH1</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL703/PROFILE02.m3u8?=%2F.ts</link>
+<link>http://212.70.155.243:27987/udp/237.100.0.87:4000?AbuDhabiTVH</link>
+<link>http://78.26.128.94:8000/udp/225.1.1.230:1234</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/VH1.png</thumbnail>
+</item>
+
+<item>
+<title>VH1 Classic</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?supertvlat=%2F.ts</link>
+<link>http://212.70.155.243:27987/udp/237.100.0.78:4000?AbuDhabiTVHD</link>
+<link>http://37.192.132.47:81/udp/239.1.8.7:1234</link>
+<link>http://31.130.77.96:4022/udp/233.26.198.180:5000</link>
+<link>https://hec.su/b7HQ</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDUS4Q_zYRuaHWlYuqJ-gXSjP0998CIKM8LRK_j_1ghI3BENbNyw</thumbnail>
+</item>
+
+<item>
+<title>The Box Music Television</title>
+<link>http://csm-e.cds1.yospace.com/csm/live/86561631.m3u8</link>
+<thumbnail>https://i1.sndcdn.com/artworks-000082520325-w2rpvr-large.jpg</thumbnail>
+</item>
+
+<item>
+<title>Vintage TV</title>
+<link>https://hec.su/bPe1</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Vintage%20TV.png</thumbnail>
+</item>
+
+<item>
+<title>Clubland</title>
+<link>http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Clubland%20TV.png</thumbnail>
+</item>
+
+<item>
+<title>DJING Club Hits HD</title>
+<link>http://cdn.djing.com/tv/h-05.m3u8</link>
+<thumbnail>http://us.djing.com/newimages/logo.png</thumbnail>
+</item>
+
+<item>
+<title>DJING Ibiza Hits HD</title>
+<link>http://www.djing.com/tv/d-04.m3u8</link>
+<thumbnail>http://us.djing.com/newimages/logo.png</thumbnail>
+</item>
+
+<item>
+<title>DJING Underground HD</title>
+<link>http://www.djing.com/tv/u-05.m3u8</link>
+<thumbnail>http://us.djing.com/newimages/logo.png</thumbnail>
+</item>
+
+<item>
+<title>DJING Classics HD</title>
+<link>http://www.djing.com/tv/i-05.m3u8</link>
+<thumbnail>http://us.djing.com/newimages/logo.png</thumbnail>
+</item>
+
+<item>
+<title>DJING Hot Hot Hot HD</title>
+<link>http://www.djing.com/tv/h-05.m3u8</link>
+<thumbnail>http://us.djing.com/newimages/logo.png</thumbnail>
+</item>
+
+<item>
+<title>DJING Animation HD</title>
+<link>http://www.djing.com/tv/a-05.m3u8</link>
+<thumbnail>http://us.djing.com/newimages/logo.png</thumbnail>
+</item>
+
+<item>
+<title>DJING DJ S HD</title>
+<link>http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/index.m3u8</link>
+<thumbnail>http://us.djing.com/newimages/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Club HD</title>
+<link>http://195.189.238.18/streaming/firstmuz/16/hd/playlist.m3u8</link>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/club_tv_al.jpg</thumbnail>
+</item>
+
+<item>
+<title>Capital TV</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://metalkettle.co/logos/logos2/FREESAT/Glossy/TV/Capital%20TV.png</thumbnail>
+</item>
+
+<item>
+<title>Kiss TV</title>
+<link>http://csm-e.cds1.yospace.com/csm/live/86561716.m3u8</link>
+<thumbnail>http://www.tvdelivery.ro/html/wp-content/uploads/2010/12/logo_kisstv.jpg</thumbnail>
+</item>
+
+<item>
+<title>4 Music</title>
+<link>http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DTT/Glossy/TV/4music.png</thumbnail>
+</item>
+
+<item>
+<title>Virgin Tv Radio</title>
+<link>http://wow01.105.net/live/virgin1/.m3u8</link>
+<thumbnail>http://www.lagardere-tvdistribution.com/var/plain_site/storage/images/en/all-channels/channels/virgin-radio-tv/5615-2-fre-FR/Virgin-Radio-TV_130x130.png</thumbnail>
+</item>
+
+<item>
+<title>Smash Hits</title>
+<link>http://csm-e.cds1.yospace.com/csm/live/86561609.m3u8</link>
+<thumbnail>http://www.channel4sales.com/globalassets/logo/150x100/boxtv/smash_hits.jpg?preset=thumb-150</thumbnail>
+</item>
+
+<item>
+<title>The Box </title>
+<link>http://csm-e.cds1.yospace.com/csm/live/86561631.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/9e/The_Box_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Magic</title>
+<link>http://csm-e.cds1.yospace.com/csm/live/86561776.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/d/df/Magic_radio.jpg</thumbnail>
+</item>
+
+<item>
+<title>Now Thats What I Call Music Channel</title>
+<link>http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8</link>
+<thumbnail>http://live-tv-channels.net/pt-data/uploads/logo/now_thats_what_i_call_music_uk.png</thumbnail>
+</item>
+
+<item>
+<title>Heart FM TV</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://metalkettle.co/logos/logos2/FREESAT/Glossy/TV/Heart%20TV.png</thumbnail>
+</item>
+
+<item>
+<title>Kerrang TV </title>
+<link>http://csm-e.tm.yospace.com/csm/live/78581309.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c7/Kerrangtvlogo.png</thumbnail>
+</item>
+
+<item>
+<title>Heavy Metal TV HD</title>
+<link>http://bit.do/bjVoP</link>
+<thumbnail>http://daily-news.co/wp-content/uploads/2014/10/Heavy-Metal-Television.png</thumbnail>
+</item>
+
+<item>
+<title>Hip Hop Music Channel</title>
+<link>http://win.cdn.bonus-tv.ru/TVB7/a1tv/playlist.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/hip%20hop%20tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cinestream TV HD Barbados</title>
+<link>http://68.71.42.179/live/livestream1/playlist.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/cinestream%20tv.jpeg</thumbnail>
+</item>
+
+<item>
+<title>Eska Party HD</title>
+<link>rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p</link>
+<thumbnail>http://metalkettle.co/logos/logos2/Eska-Party-TV_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>Channel AKA</title>
+<link>http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/570583259268935680/HLC45Kid.jpeg</thumbnail>
+</item>
+
+<item>
+<title>Vevo TV Playlist 1 </title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/vevotv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Vevo TV Playlist 2</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/vevotv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Vevo TV Playlist 3</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/vevotv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Vevo TV Hip Hop Playlist </title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/vevotv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Vevo TV Country Playlist</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/vevotv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Fashion TV</title>
+<link>http://103.245.167.28/tot/df468a12ae6547de9637486bdc2025aa.m3u8</link>
+<thumbnail>http://www.redskinmedia.com/content/images/Touched%20Fashion%20TV%20glossy%20gray%20logo%20on%20white%20images%20(6).jpg</thumbnail>
+</item>
+
+<item>
+<title>Victoria Secret TV Channel</title>
+<link>http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/victoria%20secret%20tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Euronews </title>
+<link>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8</link>
+<link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan350_rtp.sdp</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/EuroNews.png</thumbnail>
+</item>
+
+<item>
+<title>BBC News </title>
+<link>http://31.130.77.96:4022/udp/233.26.198.145:5000</link>
+<link>https://hec.su/b1Vc</link>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/BBC%20News.png</thumbnail>
+</item>
+
+<item>
+<title>BBC Parliment</title>
+<link>http://uk.stream.yo.tv/livehttporigin/BBCParliament_360p.stream/ukturk.m3u8</link>
+<link>http://vs-hds-uk-live.edgesuite.net/pool_1/live/bbc_parliament/bbc_parliament.isml/bbc_parliament-pa3%3d96000-video%3d1604000.m3u8|x-forwarded-for=88.110.425.44</link>
+<thumbnail>http://my.tvguide.co.uk/channel_logos/67.png</thumbnail>
+</item>
+
+<item>
+<title>CNN</title>
+<link>http://185.46.163.222:8010/play/a010</link>
+<link>http://128.104.128.176:8080/udp/239.1.1.78:3078</link>
+<link>http://slynet.8nio.com/2/cnn_sly.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/FREESAT/Glossy/TV/CNN.png</thumbnail>
+</item>
+
+<item>
+<title>Russia Today HD U.S</title>
+<link>http://rt-a.akamaihd.net/ch_04@325608/720p.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/FREESAT/Glossy/TV/RT%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>ABC News</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</link>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on</link>
+<thumbnail>http://metalkettle.co/logos/logos2/abc%20news.jpg</thumbnail>
+</item>
+
+<item>
+<title>CNBC</title>
+<link>http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/FREESAT/Glossy/TV/CNBC.png</thumbnail>
+</item>
+
+<item>
+<title>WGN News</title>
+<link>http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?</link>
+<thumbnail>http://metalkettle.co/logos/logos2/wgn.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Weather Channel U.S HD</title>
+<link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8</link>
+<link>http://128.104.128.176:8080/udp/239.1.1.82:3082</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/27/TWC_HD_logo.svg/200px-TWC_HD_logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>I24 News</title>
+<link>http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/i24%20news.jpg</thumbnail>
+</item>
+
+<item>
+<title>NASA TV</title>
+<link>http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://dvb.oppserver.net/other/stationlogos/tv/nn/nasa_tv_us.jpg</thumbnail>
+</item>
