@@ -40,13 +40,13 @@
 
 
 <item>
-<title>[B][COLOR blue]  TotalPlay[/COLOR][/B]</title>
+<title>[B][COLOR blue]  TotalPlay[/COLOR][/B] - [COLOR green]Online[/COLOR]</title>
 <link>http://ignoreme</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/totalp.xml</externallink>
 </item>
 
 <item>
-<title>[B][COLOR blue]  IPTV+[/COLOR][/B]</title>
+<title>[B][COLOR blue]  IPTV+[/COLOR][/B] - [COLOR green]Online[/COLOR]</title>
 <link>http://ignoreme</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/iptv.m3u</externallink>
 </item>
@@ -54,7 +54,7 @@
 
 
 <item>
-<title>[B][COLOR blue]  More List[/COLOR][/B]</title>
+<title>[B][COLOR blue]  More List[/COLOR][/B] - [COLOR green]Online[/COLOR]</title>
 <link>http://ignoreme</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/lists.xml</externallink>
 </item>
