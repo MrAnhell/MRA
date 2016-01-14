@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,[B]=== [COLOR yellow]SOME CHANNEL'S MAY TAKE SEVERAL CLICKS.[/COLOR] ===[/B]
-http://ignoreme
+http://go.teamexpat.ninja:80/live/USERNAME/PASSWORD/379.m3u8
 
 #EXTINF:-1,ITV
 http://go.teamexpat.ninja:80/live/angelconde/joel0000/251.m3u8
