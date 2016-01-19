@@ -18,35 +18,22 @@
 </item>
 
 
-
-
-
-
 <item>
 <title>[B]======== [COLOR red]LIVE TV[/COLOR] ========[/B]</title>
 <link>http://ignoreme</link>
 <thumbnail>http://i.imgur.com/ob5PMHQ.jpg</thumbnail>
 </item>
 
-
-
-
-
-
-
-
 <item>
 <title>[B][COLOR blue]  Premium TV[/COLOR][/B] - [COLOR red]Offline[/COLOR]</title>
 <link>http://ignoreme</link><thumbnail>http://i.imgur.com/PII7rng.png</thumbnail><fanart></fanart>
-<externallink>https://raw.githubusercontent.com/MrAnhell/MRA/master/247.xml</externallink>
+<externallink></externallink>
 </item>
 
-
-
 <item>
-<title>[B][COLOR blue]  TotalPlay[/COLOR][/B] - [COLOR green]Online[/COLOR] - [B]Spanish[/B]</title>
-<link></link><thumbnail>http://i.imgur.com/ZG4qVGQ.jpg</thumbnail><fanart>http://i.imgur.com/sjE4Qmh.jpg</fanart>
-<externallink>http://adrian.kodistream.info/adryan/totalp.xml</externallink>
+<title>[B][COLOR orange]  24/7 TV Shows[/COLOR][/B] - [COLOR green]Online[/COLOR] - [B]Random Episodes[/B]</title>
+<link>http://ignoreme</link><thumbnail>http://i.imgur.com/ZG4qVGQ.jpg</thumbnail><fanart>http://i.imgur.com/sjE4Qmh.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/MrAnhell/MRA/master/247.xml</externallink>
 </item>
 
 <item>
