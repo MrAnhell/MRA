@@ -31,10 +31,18 @@
 </item>
 
 <item>
-<title>[B][COLOR orange]  24/7 TV Shows[/COLOR][/B] - [COLOR green]Online[/COLOR] - [B]Random Episodes[/B]</title>
+<title>[B][COLOR blue]  24/7 TV Shows[/COLOR][/B] - [B]Random Episodes[/B] - [COLOR green]Online[/COLOR]</title>
 <link>http://ignoreme</link><thumbnail>http://i.imgur.com/ZG4qVGQ.jpg</thumbnail><fanart>http://i.imgur.com/sjE4Qmh.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MrAnhell/MRA/master/247.xml</externallink>
 </item>
+
+<item>
+<title>[B]======== [COLOR red]PPV Events[/COLOR] ========[/B]</title>
+<link>http://ignoreme</link>
+<thumbnail></thumbnail>
+</item>
+
+
 
 <item>
 <title>[B][COLOR blue]  UK Turks TV[/COLOR][/B] - [COLOR green]Online[/COLOR]</title>
