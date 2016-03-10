@@ -22,7 +22,7 @@ http://167.114.102.27/live/Eoi7KAR5NCZ0TXQWq_4Onw/1457346227/b11cc9ad84502b27a63
 #EXTINF:0 tvg-name="The CW Network" tvg-language="English" tvg-country="US" tvg-id="The CW Network" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn%3AANd9GcQO4WEZsIKEfe7n7dyKqaIxF6FwyrhqPZtz0_2hG54zFWIY0YmB49TAOhA" group-title="Top10",The CW Network (Top10) (US) (English)
 http://167.114.102.27/live/TLKBWeZdPXiq10bxJ9adbA/1457346229/d61960e75b1a90a23ebfb02f0bb46678.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 #EXTINF:0 tvg-name="24 News" tvg-language="French" tvg-country="FR" tvg-id="24 News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/News24_logo.jpg" group-title="News",24 News (News) (FR) (French)
-http://xfinitytv.comcast.net/watch/Limitless/4892219884654372112/640074819770/Limitless---Close-Encounters/videos
+http://xfinitytv.comcast.net/watch/Limitless/4892219884654372112/640074819770/Limitless---Close-Encounters/videos.m3u8
 #EXTINF:0 tvg-name="24h RTVE" tvg-language="Spanish" tvg-country="ES" tvg-id="24h RTVE" tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-original-577x577/public/0020/3295/brand.gif?itok=VyyXyw0I" group-title="News",24h RTVE (News) (ES) (Spanish)
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:0 tvg-name="360 TV" tvg-language="Turkish" tvg-country="TR" tvg-id="360 TV" tvg-logo="http://www.tv360.com.tr/img/360-logo-footer.png" group-title="News",360 TV (News) (TR) (Turkish)
