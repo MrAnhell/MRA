@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 
--<favourites>
+<favourites>
 
 <favourite thumb="DefaultVideo.png" name="[COLOR red]IPTV STALKER[/COLOR]">ActivateWindow(10025,"plugin://plugin.video.stalker/?genre_id=%2a&genre_name=All&mode=channels&portal=%7b%22name%22%3a%20%22-%20%5bCOLOR%20limegreen%5dSERVER%201%5b%2fCOLOR%5d%20%3e%3e%3e%22%2c%20%22parental%22%3a%20%22false%22%2c%20%22url%22%3a%20%22http%3a%2f%2fportal.iptvprivateserver.tv%22%2c%20%22ppassword%22%3a%20%22%22%2c%20%22mac%22%3a%20%2200%3a1A%3a78%3a6B%3a8B%3aAC%22%2c%20%22serial%22%3a%20%7b%22send_serial%22%3a%20true%2c%20%22custom%22%3a%20false%7d%2c%20%22password%22%3a%20%22495494238542%22%2c%20%22login%22%3a%20%22495494238542%22%7d&sf_options=desc%3DIPTV+STALKER%26_options_sf",return)</favourite>
 
