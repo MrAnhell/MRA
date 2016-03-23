@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, tvg-name="ITV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/759.png", ITV
+#EXTINF:-1, ITV
 http://www.tudandy.com/demoface.php?id=2447&f=.m3u8
 #EXTINF:-1, tvg-name="ITV 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/243.png", ITV 2
 http://www.tudandy.com/demoface.php?id=487&f=.m3u8
