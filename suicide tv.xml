@@ -1,0 +1,485 @@
+<item>
+<title>[COLOR red]F4M Tester Addon Required For Some Channels[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=amp;url=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]Available From Shanis Repo[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=amp;url=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR green]LIVE TV LIST MAY CHANGE FROM DAY TO DAY[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=amp;url=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]------------------------------------------------------------------------------------[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=amp;url=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]******BASIC CHANNELS******[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=enter url here&amp;streamtype=TSDOWNLOADER;name=enter name here|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>USA</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/17.m3u8</link>
+<thumbnail>https://starzinternreport.files.wordpress.com/2012/03/usa-logo.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR purple]USA LINK 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://89.163.148.31:8000/live/michele/michele/4605.ts?nimblesessionid=8526912&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE2IDEwOjI3OjU5IFBNJmhhc2hfdmFsdWU9aHZiSWkvUG9PQnprb1dOdU5RdXRLUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjY5LjEwOSZzdHJtX2xlbj0xNg==?wowzasessionid=344486367&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE2IDY6NDI6MzggQU0maGFzaF92YWx1ZT1NM1hIVnFNNGpqTDhoWU4wMDFNdVh3PT0mdmFsaWRtaW51dGVzPTIw&amp;streamtype=TSDOWNLOADER;name=USA LINK 2|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url</link>
+<thumbnail>https://starzinternreport.files.wordpress.com/2012/03/usa-logo.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>A & E</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/2.m3u8</link>
+<thumbnail>http://pricewetherill.com/wp-content/uploads/2011/09/ae.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR purple]A & E LINK 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://89.163.148.31:8000/live/support/support/4611.ts?nimblesessionid=8526912&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE2IDEwOjI3OjU5IFBNJmhhc2hfdmFsdWU9aHZiSWkvUG9PQnprb1dOdU5RdXRLUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjY5LjEwOSZzdHJtX2xlbj0xNg==?wowzasessionid=344486367&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE2IDY6NDI6MzggQU0maGFzaF92YWx1ZT1NM1hIVnFNNGpqTDhoWU4wMDFNdVh3PT0mdmFsaWRtaW51dGVzPTIw&amp;streamtype=TSDOWNLOADER;name=A & E LINK 2|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url</link>
+<thumbnail>http://pricewetherill.com/wp-content/uploads/2011/09/ae.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>FX</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/8.m3u8</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/236x/26/67/cc/2667cc6d48b116b21fe3be2f81d19dd1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TBS</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/13.m3u8</link>
+<thumbnail>http://www.tvwatchus.com/wp-content/uploads/2015/11/tbs-new-logo-1-298x180.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR purple]TBS LINK 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/michele/michele/6963.ts?nimblesessionid=8526912&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE2IDEwOjI3OjU5IFBNJmhhc2hfdmFsdWU9aHZiSWkvUG9PQnprb1dOdU5RdXRLUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjY5LjEwOSZzdHJtX2xlbj0xNg==?wowzasessionid=344486367&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE2IDY6NDI6MzggQU0maGFzaF92YWx1ZT1NM1hIVnFNNGpqTDhoWU4wMDFNdVh3PT0mdmFsaWRtaW51dGVzPTIw&amp;streamtype=TSDOWNLOADER;name=TBS LINK 2|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url</link>
+<thumbnail>http://www.tvwatchus.com/wp-content/uploads/2015/11/tbs-new-logo-1-298x180.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SPIKE</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/12.m3u8</link>
+<thumbnail>https://static-s.aa-cdn.net/img/ios/906788127/25a675c9ed9de0f7d73a5f2a145c2afc?v=1</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TNT</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/10.m3u8</link>
+<thumbnail>https://starzinternreport.files.wordpress.com/2012/05/tnt.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR purple]TNT LINK 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://89.163.148.31:8000/live/michele/michele/4571.ts?nimblesessionid=8526912&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE2IDEwOjI3OjU5IFBNJmhhc2hfdmFsdWU9aHZiSWkvUG9PQnprb1dOdU5RdXRLUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjY5LjEwOSZzdHJtX2xlbj0xNg==?wowzasessionid=344486367&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE2IDY6NDI6MzggQU0maGFzaF92YWx1ZT1NM1hIVnFNNGpqTDhoWU4wMDFNdVh3PT0mdmFsaWRtaW51dGVzPTIw&amp;streamtype=TSDOWNLOADER;name=TNT LINK 2|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url</link>
+<thumbnail>https://starzinternreport.files.wordpress.com/2012/05/tnt.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>AMC</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-Hb9IMpL_oV8/UWsKDeaWGHI/AAAAAAAAZQ0/SHiB6g-Lg0I/w1200-h630-p-nu/AMC+logo+2013.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR purple]AMC LINK 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://89.163.148.31:8000/live/michele/michele/4602.ts?nimblesessionid=8526912&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE2IDEwOjI3OjU5IFBNJmhhc2hfdmFsdWU9aHZiSWkvUG9PQnprb1dOdU5RdXRLUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjY5LjEwOSZzdHJtX2xlbj0xNg==?wowzasessionid=344486367&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE2IDY6NDI6MzggQU0maGFzaF92YWx1ZT1NM1hIVnFNNGpqTDhoWU4wMDFNdVh3PT0mdmFsaWRtaW51dGVzPTIw&amp;streamtype=TSDOWNLOADER;name=AMC LINK 2|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url</link>
+<thumbnail>http://4.bp.blogspot.com/-Hb9IMpL_oV8/UWsKDeaWGHI/AAAAAAAAZQ0/SHiB6g-Lg0I/w1200-h630-p-nu/AMC+logo+2013.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SYFY</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8</link>
+<thumbnail>http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR purple]SYFY LINK 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://89.163.148.31:8000/live/michele/michele/4593.ts?nimblesessionid=8526912&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE2IDEwOjI3OjU5IFBNJmhhc2hfdmFsdWU9aHZiSWkvUG9PQnprb1dOdU5RdXRLUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjY5LjEwOSZzdHJtX2xlbj0xNg==?wowzasessionid=344486367&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE2IDY6NDI6MzggQU0maGFzaF92YWx1ZT1NM1hIVnFNNGpqTDhoWU4wMDFNdVh3PT0mdmFsaWRtaW51dGVzPTIw&amp;streamtype=TSDOWNLOADER;name=SYFY LINK 2|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url</link>
+<thumbnail>http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TLC</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/18.m3u8</link>
+<thumbnail>http://catwerk.com/wp-content/uploads/tlc.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>LIFE TIME</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/9.m3u8</link>
+<thumbnail>http://s25.postimg.org/mm5wv2rb3/Lifetime_logo_2012_reverse.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR purple]LIFETIME LINK 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/drew/drew/6952.ts?nimblesessionid=8526912&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE2IDEwOjI3OjU5IFBNJmhhc2hfdmFsdWU9aHZiSWkvUG9PQnprb1dOdU5RdXRLUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjY5LjEwOSZzdHJtX2xlbj0xNg==?wowzasessionid=344486367&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE2IDY6NDI6MzggQU0maGFzaF92YWx1ZT1NM1hIVnFNNGpqTDhoWU4wMDFNdVh3PT0mdmFsaWRtaW51dGVzPTIw&amp;streamtype=TSDOWNLOADER;name=LIFETIME LINK 2|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url</link>
+<thumbnail>http://s25.postimg.org/mm5wv2rb3/Lifetime_logo_2012_reverse.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>LMN</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/9.m3u8</link>
+<thumbnail>http://s25.postimg.org/mm5wv2rb3/Lifetime_logo_2012_reverse.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>VH1</title>
+<link></link>
+<thumbnail>http://cdn.realscreen.com/wp/wp-content/uploads/2012/02/VH1-logo.jpg?40699f</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ABC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://89.163.148.31:8000/live/fernando/fernando/4601.ts?nimblesessionid=8526912&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE2IDEwOjI3OjU5IFBNJmhhc2hfdmFsdWU9aHZiSWkvUG9PQnprb1dOdU5RdXRLUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjY5LjEwOSZzdHJtX2xlbj0xNg==?wowzasessionid=344486367&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE2IDY6NDI6MzggQU0maGFzaF92YWx1ZT1NM1hIVnFNNGpqTDhoWU4wMDFNdVh3PT0mdmFsaWRtaW51dGVzPTIw&amp;streamtype=TSDOWNLOADER;name=ABC|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url</link>
+<thumbnail>http://yankeesrj12.files.wordpress.com/2014/05/abc-logo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>FOX</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/7.m3u8</link>
+<thumbnail>http://cdn.bleedingcool.net/wp-content/uploads/2016/05/Fox-logo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CBS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9668.ts?nimblesessionid=8526912&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE2IDEwOjI3OjU5IFBNJmhhc2hfdmFsdWU9aHZiSWkvUG9PQnprb1dOdU5RdXRLUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjY5LjEwOSZzdHJtX2xlbj0xNg==?wowzasessionid=344486367&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE2IDY6NDI6MzggQU0maGFzaF92YWx1ZT1NM1hIVnFNNGpqTDhoWU4wMDFNdVh3PT0mdmFsaWRtaW51dGVzPTIw&amp;streamtype=TSDOWNLOADER;name=CBS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url</link>
+<thumbnail>http://www.amerisourcefunding.com/getattachment/b08ce98d-3699-43f7-9ff6-b28e9559e3ac/cbs-logo(1).png.aspx?width=182&height=73</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR purple]CBS LINK 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/michele/michele/6942.ts?nimblesessionid=8526912&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE2IDEwOjI3OjU5IFBNJmhhc2hfdmFsdWU9aHZiSWkvUG9PQnprb1dOdU5RdXRLUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjY5LjEwOSZzdHJtX2xlbj0xNg==?wowzasessionid=344486367&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE2IDY6NDI6MzggQU0maGFzaF92YWx1ZT1NM1hIVnFNNGpqTDhoWU4wMDFNdVh3PT0mdmFsaWRtaW51dGVzPTIw&amp;streamtype=TSDOWNLOADER;name=CBS LINK 2|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url</link>
+<thumbnail>http://www.amerisourcefunding.com/getattachment/b08ce98d-3699-43f7-9ff6-b28e9559e3ac/cbs-logo(1).png.aspx?width=182&height=73</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>COMEDY CENTRAL</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/14.m3u8</link>
+<thumbnail>http://blogvecindad.com/imagenes/2010/12/comedyCentralLogo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>HGTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://89.163.148.31:8000/live/fernando/fernando/4570.ts?nimblesessionid=8526912&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE2IDEwOjI3OjU5IFBNJmhhc2hfdmFsdWU9aHZiSWkvUG9PQnprb1dOdU5RdXRLUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjY5LjEwOSZzdHJtX2xlbj0xNg==?wowzasessionid=344486367&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE2IDY6NDI6MzggQU0maGFzaF92YWx1ZT1NM1hIVnFNNGpqTDhoWU4wMDFNdVh3PT0mdmFsaWRtaW51dGVzPTIw&amp;streamtype=TSDOWNLOADER;name=HGTV|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url</link>
+<thumbnail>https://mirror.umd.edu/xbmc/addons/jarvis/plugin.video.hgtv/icon.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR purple]HGTV LINK 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/michele/michele/6950.ts?nimblesessionid=8526912&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE2IDEwOjI3OjU5IFBNJmhhc2hfdmFsdWU9aHZiSWkvUG9PQnprb1dOdU5RdXRLUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjY5LjEwOSZzdHJtX2xlbj0xNg==?wowzasessionid=344486367&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE2IDY6NDI6MzggQU0maGFzaF92YWx1ZT1NM1hIVnFNNGpqTDhoWU4wMDFNdVh3PT0mdmFsaWRtaW51dGVzPTIw&amp;streamtype=TSDOWNLOADER;name=HGTV|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url</link>
+<thumbnail>https://mirror.umd.edu/xbmc/addons/jarvis/plugin.video.hgtv/icon.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>OWN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://89.163.148.31:8000/live/fernando/fernando/4620.ts?nimblesessionid=8526912&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE2IDEwOjI3OjU5IFBNJmhhc2hfdmFsdWU9aHZiSWkvUG9PQnprb1dOdU5RdXRLUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjY5LjEwOSZzdHJtX2xlbj0xNg==?wowzasessionid=344486367&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE2IDY6NDI6MzggQU0maGFzaF92YWx1ZT1NM1hIVnFNNGpqTDhoWU4wMDFNdVh3PT0mdmFsaWRtaW51dGVzPTIw&amp;streamtype=TSDOWNLOADER;name=OWN|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR purple]OWN LINK 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/drew/drew/4620.ts?nimblesessionid=8526912&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE2IDEwOjI3OjU5IFBNJmhhc2hfdmFsdWU9aHZiSWkvUG9PQnprb1dOdU5RdXRLUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjY5LjEwOSZzdHJtX2xlbj0xNg==?wowzasessionid=344486367&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE2IDY6NDI6MzggQU0maGFzaF92YWx1ZT1NM1hIVnFNNGpqTDhoWU4wMDFNdVh3PT0mdmFsaWRtaW51dGVzPTIw&amp;streamtype=TSDOWNLOADER;name=OWN LINK 2|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/0/0b/Nick_Jr_(formerly_Noggin)_New_Logo.jpg/revision/latest?cb=20120325154425</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]******NEWS CHANNELS US******[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ABC NEWS</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/-vFNoLd1HnDs/AAAAAAAAAAI/AAAAAAAAAAA/Yt468AF7XKE/s900-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>CNBC</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/theevent/images/0/04/Logo-NBC.jpg/revision/latest?cb=20100810221339</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CNN</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8</link>
+<thumbnail>http://famouslogos.net/images/cnn-logo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]******KIDS CHANNELS US******[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>DISNEY</title>
+<link></link>
+<thumbnail>http://vignette1.wikia.nocookie.net/disneychannel/images/d/d2/The_new_Disney_Channel_Logo.jpg/revision/latest?cb=20140707135924</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>DISNEY XD</title>
+<link></link>
+<thumbnail>http://vignette1.wikia.nocookie.net/recess/images/b/b3/Disney_XD.jpg/revision/latest?cb=20120121024050</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NICK</title>
+<link></link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/0/0b/Nick_Jr_(formerly_Noggin)_New_Logo.jpg/revision/latest?cb=20120325154425</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR purple]NICK JR LINK 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://89.163.148.31:8000/live/ramon/ramon/4617.ts?nimblesessionid=8526912&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE2IDEwOjI3OjU5IFBNJmhhc2hfdmFsdWU9aHZiSWkvUG9PQnprb1dOdU5RdXRLUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjY5LjEwOSZzdHJtX2xlbj0xNg==?wowzasessionid=344486367&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE2IDY6NDI6MzggQU0maGFzaF92YWx1ZT1NM1hIVnFNNGpqTDhoWU4wMDFNdVh3PT0mdmFsaWRtaW51dGVzPTIw&amp;streamtype=TSDOWNLOADER;name=NICK JR LINK 2|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/0/0b/Nick_Jr_(formerly_Noggin)_New_Logo.jpg/revision/latest?cb=20120325154425</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]******PREMIUM CHANNELS US******[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<thumbnail>/thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>HBO</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/19.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR purple]HBO LINK 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/drew/drew/6947.ts?nimblesessionid=8526912&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE2IDEwOjI3OjU5IFBNJmhhc2hfdmFsdWU9aHZiSWkvUG9PQnprb1dOdU5RdXRLUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjY5LjEwOSZzdHJtX2xlbj0xNg==?wowzasessionid=344486367&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE2IDY6NDI6MzggQU0maGFzaF92YWx1ZT1NM1hIVnFNNGpqTDhoWU4wMDFNdVh3PT0mdmFsaWRtaW51dGVzPTIw&amp;streamtype=TSDOWNLOADER;name=HBO LINK 2|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/0/0b/Nick_Jr_(formerly_Noggin)_New_Logo.jpg/revision/latest?cb=20120325154425</thumbnail>
+<fanart></fanart>
+</item
+
+<item>
+<title>SHOWTIME</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/26.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR purple]SHOWTIME LINK 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/michele/michele/6927.ts?nimblesessionid=8526912&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE2IDEwOjI3OjU5IFBNJmhhc2hfdmFsdWU9aHZiSWkvUG9PQnprb1dOdU5RdXRLUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjY5LjEwOSZzdHJtX2xlbj0xNg==?wowzasessionid=344486367&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE2IDY6NDI6MzggQU0maGFzaF92YWx1ZT1NM1hIVnFNNGpqTDhoWU4wMDFNdVh3PT0mdmFsaWRtaW51dGVzPTIw&amp;streamtype=TSDOWNLOADER;name=SHOWTIME LINK 2|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SHOWTIME 2</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/27.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SHOWTIME CASE</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/28.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CINEMAX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8867.ts?nimblesessionid=8526912&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE2IDEwOjI3OjU5IFBNJmhhc2hfdmFsdWU9aHZiSWkvUG9PQnprb1dOdU5RdXRLUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjY5LjEwOSZzdHJtX2xlbj0xNg==?wowzasessionid=344486367&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE2IDY6NDI6MzggQU0maGFzaF92YWx1ZT1NM1hIVnFNNGpqTDhoWU4wMDFNdVh3PT0mdmFsaWRtaW51dGVzPTIw&amp;streamtype=TSDOWNLOADER;name=CINEMAX|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CINEMAX ACTION</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/25.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>STARZ CINEMA</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/33.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MOVIES 1</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/20.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MOVIES 2</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/21.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MOVIES 3</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/22.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MOVIES 4</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/23.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MOVIES 5</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/24.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MOVIES 6</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/25.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MOVIES 7</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/32.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MOVIES 8</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/34.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR blue]******NATURE CHANNELS US******[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<thumbnail>http://images.bwwstatic.com/tvnetworklogos/12D53F96-0BB3-E806-9A319BCB78E18EBD.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>HISTORY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9673.ts?nimblesessionid=8526912&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE2IDEwOjI3OjU5IFBNJmhhc2hfdmFsdWU9aHZiSWkvUG9PQnprb1dOdU5RdXRLUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjY5LjEwOSZzdHJtX2xlbj0xNg==?wowzasessionid=344486367&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE2IDY6NDI6MzggQU0maGFzaF92YWx1ZT1NM1hIVnFNNGpqTDhoWU4wMDFNdVh3PT0mdmFsaWRtaW51dGVzPTIw&amp;streamtype=TSDOWNLOADER;name=HISTORY|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR purple]HISTORY LINK 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/michele/michele/4573.ts?nimblesessionid=8526912&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE2IDEwOjI3OjU5IFBNJmhhc2hfdmFsdWU9aHZiSWkvUG9PQnprb1dOdU5RdXRLUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjY5LjEwOSZzdHJtX2xlbj0xNg==?wowzasessionid=344486367&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE2IDY6NDI6MzggQU0maGFzaF92YWx1ZT1NM1hIVnFNNGpqTDhoWU4wMDFNdVh3PT0mdmFsaWRtaW51dGVzPTIw&amp;streamtype=TSDOWNLOADER;name=HISTORY LINK 2|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&ur</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>DISCOVERY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9675.ts?nimblesessionid=8526912&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE2IDEwOjI3OjU5IFBNJmhhc2hfdmFsdWU9aHZiSWkvUG9PQnprb1dOdU5RdXRLUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjY5LjEwOSZzdHJtX2xlbj0xNg==?wowzasessionid=344486367&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE2IDY6NDI6MzggQU0maGFzaF92YWx1ZT1NM1hIVnFNNGpqTDhoWU4wMDFNdVh3PT0mdmFsaWRtaW51dGVzPTIw&amp;streamtype=TSDOWNLOADER;name=DISCOVERY|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>DISCOVERY SCI</title>
+<link>http://80.80.160.168/live/9/live.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ID</title>
+<link>http://80.80.160.168/live/5/live.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NAT GEO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9670.ts?nimblesessionid=8526912&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE2IDEwOjI3OjU5IFBNJmhhc2hfdmFsdWU9aHZiSWkvUG9PQnprb1dOdU5RdXRLUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjY5LjEwOSZzdHJtX2xlbj0xNg==?wowzasessionid=344486367&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE2IDY6NDI6MzggQU0maGFzaF92YWx1ZT1NM1hIVnFNNGpqTDhoWU4wMDFNdVh3PT0mdmFsaWRtaW51dGVzPTIw&amp;streamtype=TSDOWNLOADER;name=NAT GEO|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>HISTORY 2</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/36.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ANIMAL PLANET</title>
+<link>http://80.80.160.168/live/1/live.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
