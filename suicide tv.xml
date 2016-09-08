@@ -42,7 +42,7 @@
 
 <item>
 <title>ABC Boston</title>
-<link>http://127.0.0.1:1935/live/_definst_/http://127.0.0.1:1935/live/_definst_/http://teamkolossus.com/K.M.C-TV/abc_boston/master.m3u8/manifest.mpd/manifest.mpd</link>
+<link>http://127.0.0.1:1935/vod/_definst_/http://teamkolossus.com/K.M.C-TV/abc_boston/master.m3u8/manifest.mpd</link>
 <thumbnail>https://starzinternreport.files.wordpress.com/2012/03/usa-logo.gif</thumbnail>
 <fanart></fanart>
 </item>
