@@ -20,7 +20,7 @@
 
 <item>
 <title>[B]======== [COLOR red]LIVE TV[/COLOR] ========[/B]</title>
-<link>http://31.220.41.102:80/LiveEdge/NFLNetworkUS/chunklist_w787485090_b1000000.m3u8?token=1d97a9d4f5ae2c0a166cef0f07918998</link>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/watch.stream/playlist.m3u8?securehash=s3UFiWpSYZIHIv9Dn4D0wWSHReEANf6mDl0tj8VeCiI=&securestarttime=1475847881&secureendtime=1475862281&secureuserid=d2dc9dd7083c8c13eee6a121bb3cc926</link>
 <thumbnail>http://i.imgur.com/ob5PMHQ.jpg</thumbnail>
 </item>
 
