@@ -20,7 +20,7 @@
 
 <item>
 <title>[B]======== [COLOR red]LIVE TV[/COLOR] ========[/B]</title>
-<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/watch.stream/playlist.m3u8?securehash=s3UFiWpSYZIHIv9Dn4D0wWSHReEANf6mDl0tj8VeCiI=&securestarttime=1475847881&secureendtime=1475862281&secureuserid=d2dc9dd7083c8c13eee6a121bb3cc926</link>
+<link>http://tv.38ui.com:4022/udp/239.1.0.35:1234</link>
 <thumbnail>http://i.imgur.com/ob5PMHQ.jpg</thumbnail>
 </item>
 
