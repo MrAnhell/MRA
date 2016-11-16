@@ -41,8 +41,8 @@
 </item>
 
 <item>
-<title>new</title>
-<link>http://iptv-reseller.xyz:2095/live/stream-nation.tv/stream-nation.tv/2.ts</link>
+<title>newest</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freedom.duki.me/LIVE/H02/AMCEastUS/46694-20161116T150232.ts</link>
 <thumbnail>https://starzinternreport.files.wordpress.com/2012/03/usa-logo.gif</thumbnail>
 <fanart></fanart>
 </item>
