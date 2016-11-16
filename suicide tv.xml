@@ -1,6 +1,6 @@
 <item>
 <title>[COLOR red]F4M Tester Addon Required For Some Channels[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=amp;url=</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -42,7 +42,7 @@
 
 <item>
 <title>newest</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freedom.duki.me/LIVE/H02/AMCEastUS/master.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://freedom.duki.me/LIVE/H02/AMCEastUS/master.m3u8</link>
 <thumbnail>https://starzinternreport.files.wordpress.com/2012/03/usa-logo.gif</thumbnail>
 <fanart></fanart>
 </item>
