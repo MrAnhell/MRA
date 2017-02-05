@@ -1,0 +1,84 @@
+b-trouble-on-blobolonia-nes.jpg</snapshot7>
+<snapshot8>http://www.mobygames.com/images/shots/l/84207-david-crane-s-a-boy-and-his-blob-trouble-on-blobolonia-nes.jpg</snapshot8>
+<snapshot9>http://www.mobygames.com/images/shots/l/84208-david-crane-s-a-boy-and-his-blob-trouble-on-blobolonia-nes.jpg</snapshot9>
+<snapshot10>http://www.mobygames.com/images/shots/l/84209-david-crane-s-a-boy-and-his-blob-trouble-on-blobolonia-nes.jpg</snapshot10>
+<fanart1>http://thegamesdb.net/banners/fanart/original/1042-1.jpg</fanart1>
+<banner1>http://thegamesdb.net/banners/graphical/1042-g.jpg</banner1>
+<clearlogo1>http://thegamesdb.net/banners/clearlogo/1042.png</clearlogo1>
+<emu_command></emu_command>
+</game>
+<game name="41.  Battletoads">
+<description>41.  Battletoads</description>
+<rom name="No-Intro-Collection_2013-06-14/No-Intro-Collection_2013-06-14.zip/Nintendo%20-%20Nintendo%20Entertainment%20System%2FBattletoads%20%28USA%29.zip" size="190443"/>
+<rom_override_cmd>/system/bin/am start --user 0 -a android.intent.action.MAIN -c android.intent.category.LAUNCHER -e ROM "%ROM_PATH%" -e LIBRETRO /data/data/com.retroarch/cores/nestopia_libretro_android.so -e CONFIGFILE %CFG_PATH% -e IME com.android.inputmethod.latin/.LatinIME -n com.retroarch/.browser.retroactivity.RetroActivityFuture</rom_override_cmd>
+<rom_override_postdl>unzip_rom</rom_override_postdl>
+<rom_override_downloadpath>/storage/usbdrive2/Android/NES ROMS/</rom_override_downloadpath>
+<plot>Oh, Battletoads. Though it was essentially a weird, off-brand rip-off of Teenage Mutant Ninja Turtles, it was still amazing for its time. The gameplay was awesome, the visuals were amazing, and the music was some of the best around... but that's not what you remember it for.[CR]Battletoads is the cult favorite popular among prank callers for one reason: the difficulty. The painful, brutal difficulty could tear down even the strongest player’s resolve once the damn hoverbike level appeared. However, while it's true that parts of Battletoads can be difficult to the point of tears, we still had fun playing, and that's really all that matters, right?</plot>
+<year>1991</year>
+<releasedate>06/05/1991</releasedate>
+<genre>Action</genre>
+<studio>Tradewest, Inc.</studio>
+<nplayers>1-2 Co-Op</nplayers>
+<perspective>Platform</perspective>
+<rating>4.0</rating>
+<videoid>QLxXmnqaJtw</videoid>
+<boxart1>http://thegamesdb.net/banners/boxart/original/front/2770-1.jpg</boxart1>
+<boxart2>http://thegamesdb.net/banners/boxart/original/back/2770-1.jpg</boxart2>
+<boxart3>http://i.imgur.com/636maqX.png</boxart3>
+<boxart4>http://i.imgur.com/x7a1gvT.png</boxart4>
+<boxart5>http://i.imgur.com/RCiBuHv.jpg</boxart5>
+<boxart6>http://www.mobygames.com/images/covers/l/33605-battletoads-nes-media.jpg</boxart6>
+<boxart7>http://www.mobygames.com/images/covers/l/232899-battletoads-nes-media.jpg</boxart7>
+<boxart8>http://www.mobygames.com/images/covers/l/271289-battletoads-nes-media.jpg</boxart8>
+<snapshot1>http://thegamesdb.net/banners/screenshots/2770-1.jpg</snapshot1>
+<snapshot2>http://www.mobygames.com/images/shots/l/41348-battletoads-nes-screenshot-title-screen.jpg</snapshot2>
+<snapshot3>http://www.mobygames.com/images/shots/l/105405-battletoads-nes-screenshot-japan-title-screen.jpg</snapshot3>
+<snapshot4>http://www.mobygames.com/images/shots/l/83169-battletoads-nes-screenshot-beginning-mission-screen.jpg</snapshot4>
+<snapshot5>http://www.mobygames.com/images/shots/l/83170-battletoads-nes-screenshot-impressive-drawing-consider-it-s.jpg</snapshot5>
+<snapshot6>http://www.mobygames.com/images/shots/l/83173-battletoads-nes-screenshot-story-unfolds-between-levels.jpg</snapshot6>
+<snapshot7>http://www.mobygames.com/images/shots/l/83171-battletoads-nes-screenshot-toad-freaks-when-he-sees-giant-robot.jpg</snapshot7>
+<snapshot8>http://www.mobygames.com/images/shots/l/83172-battletoads-nes-screenshot-fighting-the-level-1-boss.jpg</snapshot8>
+<snapshot9>http://www.mobygames.com/images/shots/l/83174-battletoads-nes-screenshot-toads-swings-about-on-a-rope.jpg</snapshot9>
+<snapshot10>http://www.mobygames.com/images/shots/l/83175-battletoads-nes-screenshot-whatever-that-s-supposed-to-be.jpg</snapshot10>
+<fanart1>http://thegamesdb.net/banners/fanart/original/2770-1.jpg</fanart1>
+<fanart2>http://thegamesdb.net/banners/fanart/original/2770-2.jpg</fanart2>
+<fanart3>http://thegamesdb.net/banners/fanart/original/2770-3.jpg</fanart3>
+<fanart4>http://thegamesdb.net/banners/fanart/original/2770-4.jpg</fanart4>
+<fanart5>http://thegamesdb.net/banners/fanart/original/2770-5.jpg</fanart5>
+<banner1>http://i.imgur.com/BFuOop8.jpg</banner1>
+<clearlogo1>http://thegamesdb.net/banners/clearlogo/2770.png</clearlogo1>
+<emu_command></emu_command>
+</game>
+<game name="39.  StarTropics">
+<description>39.  StarTropics</description>
+<rom name="No-Intro-Collection_2013-06-14/No-Intro-Collection_2013-06-14.zip/Nintendo%20-%20Nintendo%20Entertainment%20System%2FStarTropics%20%28USA%29.zip" size="256878"/>
+<rom_override_cmd>/system/bin/am start --user 0 -a android.intent.action.MAIN -c android.intent.category.LAUNCHER -e ROM "%ROM_PATH%" -e LIBRETRO /data/data/com.retroarch/cores/nestopia_libretro_android.so -e CONFIGFILE %CFG_PATH% -e IME com.android.inputmethod.latin/.LatinIME -n com.retroarch/.browser.retroactivity.RetroActivityFuture</rom_override_cmd>
+<rom_override_postdl>unzip_rom</rom_override_postdl>
+<rom_override_downloadpath>/storage/usbdrive2/Android/NES ROMS/</rom_override_downloadpath>
+<plot>When Zelda II: The Adventure of Link released in 1988, those expecting an evolution of the original were shocked to find a completely different game. While Zelda II was still great (as you’ll read), it wasn’t the true sequel a lot of us had hoped for. All of a sudden, StarTropics hits the NES in 1990, and everyone who wanted a true sequel to the original Zelda got the next best thing: a brand-new game in the same vein. StarTropics became an instant hit.[CR]StarTropics was a marriage of two major Zelda mechanics: the top-down perspective of the original Zelda’s dungeons and the overworld map of Zelda II. StarTropics’ hero, Mike Jones, would visit towns and other areas searching for clues and battling enemies in the top-down perspective, while traveling the world to other locations on the world map. It wasn’t Link running around in this game, it was a kid who has a penchant for sticking bananas in his ears (seriously), but it was a natural step up from the original Zelda, and that can never be a bad thing.</plot>
+<year>1990</year>
+<releasedate>12/05/1990</releasedate>
+<genre>Action, Adventure</genre>
+<studio>Nintendo of America Inc.</studio>
+<nplayers>1</nplayers>
+<perspective>Top-Down</perspective>
+<rating>3.8</rating>
+<videoid>eAMJXN7zeyI</videoid>
+<boxart1>http://thegamesdb.net/banners/boxart/original/front/1454-1.jpg</boxart1>
+<boxart2>http://thegamesdb.net/banners/boxart/original/back/1454-1.jpg</boxart2>
+<boxart3>http://www.mobygames.com/images/covers/l/15494-startropics-nes-media.jpg</boxart3>
+<boxart4>http://www.mobygames.com/images/covers/l/177338-startropics-nes-media.jpg</boxart4>
+<snapshot1>http://www.mobygames.com/images/shots/l/32391-startropics-nes-screenshot-title-screen.jpg</snapshot1>
+<snapshot2>http://www.mobygames.com/images/shots/l/32392-startropics-nes-screenshot-overhead-view-of-the-island.jpg</snapshot2>
+<snapshot3>http://www.mobygames.com/images/shots/l/32393-startropics-nes-screenshot-entering-a-village.jpg</snapshot3>
+<snapshot4>http://www.mobygames.com/images/shots/l/32394-startropics-nes-screenshot-the-villagers-can-provide-useful.jpg</snapshot4>
+<snapshot5>http://www.mobygames.com/images/shots/l/32395-startropics-nes-screenshot-entering-the-underground-caves.jpg</snapshot5>
+<snapshot6>http://www.mobygames.com/images/shots/l/32396-startropics-nes-screenshot-what-could-the-secret-be.jpg</snapshot6>
+<snapshot7>http://www.mobygames.com/images/shots/l/32397-startropics-nes-screenshot-carefully-jump-across-the-water.jpg</snapshot7>
+<snapshot8>http://www.mobygames.com/images/shots/l/32398-startropics-nes-screenshot-skulls-impede-your-progress.jpg</snapshot8>
+<snapshot9>http://img.gamefaqs.net/screens/c/0/6/gfs_39792_1_1.jpg</snapshot9>
+<snapshot10>http://img.gamefaqs.net/screens/c/6/c/gfs_98689_1_1.jpg</snapshot10>
+<banner1>http://i.imgur.com/30rOe3h.png</banner1>
+<emu_command></emu_command>
+</game>
+</datafile>
