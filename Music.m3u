@@ -23,11 +23,12 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC143/chunklis
 https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
 #EXTINF:1,[I]TODDLERS[/I]
 http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
-#EXTINF:1,[I]TROPICAL[/I]
-http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
 #EXTINF:1,[I]POP LATINO[/I]
 https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
-
-
-
+#EXTINF:1,[I]MUSICA URBANA[/I]
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
+#EXTINF:1,[I]MEXICANA[/I]
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
+#EXTINF:1,[I]Y2K[/I]
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
 
