@@ -11,3 +11,7 @@ https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC100/chunkli
 https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
 #EXTINF:1,[I]KIDS ONLY[/I]
 http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
+#EXTINF:1,[I]THROWBACKS[/I]
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
+#EXTINF:1,[I]POP HITS[/I]
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
