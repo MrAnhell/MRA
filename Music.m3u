@@ -15,3 +15,5 @@ http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC130/chunklis
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
 #EXTINF:1,[I]POP HITS[/I]
 http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+#EXTINF:1,[I]ALTERNATIVE[/I]
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
