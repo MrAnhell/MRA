@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:0,         **[B][I]COMCAST MUSIC CHOICE[/I][/B]**
+http://ignoreme
+#EXTINF:1,MC Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:1,Hit List
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+#EXTINF:1,Dance EDM
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+#EXTINF:1,Kids Only
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
