@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,         ** [B][I][COLOR yellow]COMCAST MUSIC CHOICE VIDEOS[/COLOR][/I][/B]  **
+#EXTINF:0,         ** [B][I][COLOR white]XFINITY[/COLOR] [COLOR red]MUSIC CHOICE[/COLOR] VIDEOS[/I][/B]  **
 
 #EXTINF:0,
 
@@ -53,7 +53,7 @@ http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC139/chunklis
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/playlist.m3u8
 
 
-#EXTINF:0,         ** [B][I][COLOR yellow]BROUGHT TO YOU BY MrAnhell[/COLOR][/I][/B]  **
+#EXTINF:0,         ** [B][I][COLOR yellow]BY MrAnhell[/COLOR][/I][/B]  **
 http://
 
 
