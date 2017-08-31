@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>                                  [B]*[COLOR limegreen] WELCOME TO [/COLOR]*[/B]</title>
+<link>http://</link><thumbnail>http://i.imgur.com/YkawUw7.png</thumbnail><fanart></fanart>
+</item>	
+
+
+<item>
+<title>                           [B][COLOR red]==[COLOR yellow] M U S I C  C H O I C E [/COLOR]==[/COLOR][/B]</title>
+<link>http://</link><thumbnail></thumbnail><fanart></fanart>
+</item>
+
+<item>
+<title>              [B][COLOR white]         Reliable Audio & Video Streams Available!       [/COLOR][/B]      </title>
+<link>http://</link><thumbnail></thumbnail><fanart></fanart>
+</item>
+
+<item>
+  <title>                                                       </title>
+  <link>http://ignoreme</link>  
+</item>
+
+
+<item>
+<title>[I][B]Music Choice - Videos[/B][/I]</title>
+<link></link>
+<externallink>https://raw.githubusercontent.com/MrAnhell/MRA/master/Music</externallink> 
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[I][B]Music Choice - Audio Only[/B][/I]</title>
+<link></link>
+<externallink>https://raw.githubusercontent.com/MrAnhell/MRA/master/Music%20(Audio)</externallink> 
+<thumbnail></thumbnail>
+</item>
+
+</items>
