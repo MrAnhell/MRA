@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,         ** [B][I][COLOR yellow]COMCAST MUSIC CHOICE - AUDIO ONLY[/COLOR][/I][/B]  **
+#EXTINF:0,         ** [B][I][COLOR red]XFINITY[/COLOR] [COLOR white]MUSIC CHOICE[/COLOR] - AUDIO ONLY![/I][/B]  **
 
 #EXTINF:0,
 
@@ -153,3 +153,6 @@ http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-135/chunkli
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-136/chunklist.m3u8
 #EXTINF:1,[I]K-Pop[/I]
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-134/chunklist.m3u8
+
+#EXTINF:0,     ** [B][I][COLOR yellow]BY MrAnhell[/COLOR][/I][/B] **
+http://
