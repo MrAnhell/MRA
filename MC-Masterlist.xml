@@ -39,8 +39,8 @@
 
 
 <item>
-<title>[I][B][COLOR yellow]Search[/COLOR][/B][/I]</title>
-<link>plugin://plugin.video.youtube/search/?q=</link>
+<title>[I][B][COLOR yellow]Search 1[/COLOR][/B][/I]</title>
+<link>plugin://plugin.video.youtube/kodion/search/input/",return)</link>
 <externallink></externallink> 
 <thumbnail>http://www.cognifide.com/~/media/cognifide2014/blogs/2017/Client%20side%20performance%20tests/Testing%20icon.jpg</thumbnail>
 </item>
