@@ -40,8 +40,8 @@
 
 <item>
 <title>[I][B][COLOR yellow]Search 2[/COLOR][/B][/I]</title>
-<link>activatewindow(videos,"plugin://plugin.video.youtube/kodion/search/input/",return)</link>
-<externallink></externallink> 
+<link>http://</link>
+<externallink>activatewindow(videos,"plugin://plugin.video.youtube/kodion/search/input/",return)</externallink> 
 <thumbnail>http://www.cognifide.com/~/media/cognifide2014/blogs/2017/Client%20side%20performance%20tests/Testing%20icon.jpg</thumbnail>
 </item>
 
