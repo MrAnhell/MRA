@@ -1,0 +1,39 @@
+{
+  "title": "New feed",
+  "props": {},
+  "categories": [
+    {
+      "title": "Super Nintendo",
+      "description": "TEST MRA",
+      "items": [
+        {
+          "title": "ActRaiser",
+          "longTitle": "ActRaiser (USA)",
+          "type": "snes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/ActRaiser%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/ActRaiser%20(USA).png",
+          "description": "During game play the player fills the role of the 'Master', a powerful being awakened from a long sleep to find the civilizations of his former world in shambles. Through a combination of side-scrolling action stages and overhead-view \"god\" simulation mode the Master slowly rebuilds his world and regains his followers and powers. He is not referred to as a deity of any kind, and it is stated in the manual that he is mortal, and this is the reason he hid away from the demons he was fighting when he had just enough power to seal himself away and wait them out.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://ia800201.us.archive.org/view_archive.php?archive=/7/items/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System.zip&file=ActRaiser%20%28USA%29.zip"
+          },
+          "added": 1689312387349
+        },
+        {
+          "title": "Battletoads-Double Dragon",
+          "longTitle": "Battletoads-Double Dragon (USA)",
+          "type": "snes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/Battletoads-Double%20Dragon%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/Battletoads-Double%20Dragon%20(USA).png",
+          "description": "When a battle-cruiser the size of a city and called the Colossus smashes out of the moon, its laser cannon glowing menacingly, you can bet it ain't gonna be makin' no social calls...\n\nYou can bet it's gonna be creating some bad n' crazy mayhem on good ol' planet Earth -  'specially when you know that the dreaded Dark Queen and the shady Shadow Boss are on board just rarin' to rock n' roll...\n\nThe dastardly duo are about to unleash their most monstrous plan yet - from their secret lunar base they intend to launch an invasion that'll make them masters of the world...\n\nNeutralized by deadly glooming rays, Earth's forces are powerless... that ist, until the Dragons join the 'Toads!\n\nTake a 'toadacious trip with the dream ticket as those terrific twins Billy and Jimmy Lee team up with Zitz, Rash and Pimple against the combined might of the gruesome twosome and their mindless minions, Big Blag, Abobo, Robo-Manus and Roper, in a 'toadally terminal new adventure!\n\nSo let's get mad, bad n' crazy once again as the BATTLETOADS join DOUBLE DRAGON in THE ULTIMATE TEAM!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://ia800201.us.archive.org/view_archive.php?archive=/7/items/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System.zip&file=Battletoads-Double%20Dragon%20%28USA%29.zip"
+          },
+          "added": 1689312598000
+        }
+      ],
+      "backgroundPixelated": false
+    }
+  ]
+}
